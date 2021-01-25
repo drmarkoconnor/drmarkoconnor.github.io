@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://drmarkoconnor.github.io/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-01-25T01:39:33+00:00</updated>
+  <updated>2021-01-25T09:11:05+00:00</updated>
   <id>https://drmarkoconnor.github.io/tag/getting-started/feed.xml</id>
 
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Using the Ghost editor</title>
-      <link href="https://drmarkoconnor.github.io/2017/07/27/the-editor.html" rel="alternate" type="text/html" title="Using the Ghost editor" />
+      <link href="https://drmarkoconnor.github.io/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" />
       <published>2017-07-27T10:00:00+01:00</published>
       <updated>2017-07-27T10:00:00+01:00</updated>
-      <id>https://drmarkoconnor.github.io/2017/07/27/the-editor</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/2017/07/27/the-editor.html">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
+      <id>https://drmarkoconnor.github.io/the-editor</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
 &lt;p&gt;
   When you go to edit a post and see special characters and colours intertwined
   between the words, those are Markdown shortcuts which tell Ghost what to do
@@ -178,11 +178,11 @@
   
     <entry>
       <title type="html">Advanced Markdown tips</title>
-      <link href="https://drmarkoconnor.github.io/2017/07/27/advanced-markdown.html" rel="alternate" type="text/html" title="Advanced Markdown tips" />
+      <link href="https://drmarkoconnor.github.io/advanced-markdown" rel="alternate" type="text/html" title="Advanced Markdown tips" />
       <published>2017-07-27T06:00:00+01:00</published>
       <updated>2017-07-27T06:00:00+01:00</updated>
-      <id>https://drmarkoconnor.github.io/2017/07/27/advanced-markdown</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/2017/07/27/advanced-markdown.html">&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
+      <id>https://drmarkoconnor.github.io/advanced-markdown</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/advanced-markdown">&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
 &lt;p&gt;
   If you've gotten pretty comfortable with
   &lt;a href=&quot;/the-editor/&quot;&gt;all the basics&lt;/a&gt; of writing in Ghost, then you may

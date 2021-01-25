@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://drmarkoconnor.github.io/tag/git/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-01-25T01:39:33+00:00</updated>
+  <updated>2021-01-25T09:11:05+00:00</updated>
   <id>https://drmarkoconnor.github.io/tag/git/feed.xml</id>
 
   
@@ -32,12 +32,12 @@
 
   
     <entry>
-      <title type="html">git - merging</title>
-      <link href="https://drmarkoconnor.github.io/2020/12/04/more-git.html" rel="alternate" type="text/html" title="git - merging" />
+      <title type="html">git merging</title>
+      <link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="git merging" />
       <published>2020-12-04T20:12:21+00:00</published>
       <updated>2020-12-04T20:12:21+00:00</updated>
-      <id>https://drmarkoconnor.github.io/2020/12/04/more-git</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/2020/12/04/more-git.html">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/more-git</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
 
 &lt;h2&gt;1. Fast-forward merge&lt;/h2&gt;
 
@@ -155,11 +155,11 @@
   
     <entry>
       <title type="html">Markup is converted to html by tiinderbox</title>
-      <link href="https://drmarkoconnor.github.io/2020/01/08/git-basics.html" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" />
+      <link href="https://drmarkoconnor.github.io/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" />
       <published>2020-01-08T20:12:28+00:00</published>
       <updated>2020-01-08T20:12:28+00:00</updated>
-      <id>https://drmarkoconnor.github.io/2020/01/08/git-basics</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/2020/01/08/git-basics.html">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/git-basics</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
 
 &lt;h2&gt;git [command] [--flag] [arguments]&lt;/h2&gt;
 
@@ -319,11 +319,11 @@ Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HE
   
     <entry>
       <title type="html">git - Network commands</title>
-      <link href="https://drmarkoconnor.github.io/2020/01/03/network-command.html" rel="alternate" type="text/html" title="git - Network commands" />
+      <link href="https://drmarkoconnor.github.io/network-command" rel="alternate" type="text/html" title="git - Network commands" />
       <published>2020-01-03T20:10:46+00:00</published>
       <updated>2020-01-03T20:10:46+00:00</updated>
-      <id>https://drmarkoconnor.github.io/2020/01/03/network-command</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/2020/01/03/network-command.html">&lt;h1&gt;git: Network commands&lt;/h1&gt;
+      <id>https://drmarkoconnor.github.io/network-command</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
