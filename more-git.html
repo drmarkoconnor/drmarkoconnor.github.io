@@ -11,7 +11,7 @@
 
 
 
-    <title>git mergers</title>
+    <title>A view from above</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -42,24 +42,36 @@
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="mark" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="git mergers" />
-    <meta property="og:description" content="git: Merging commits from branches 1. Fast-forward merge This can only be done if there are no other commits to the base branch since the branching took place It is the deafult method that git adopts git checkout master git merge featureX git branch -d featureX 2. Merge commit git" />
+    <meta property="og:title" content="A view from above" />
+    <meta property="og:description" content="
+  1917, London's East End, two nuns are tasked with opening a new convent. Can
+  they escape their explosive fate?
+
+  go to main story...
+
+" />
     <meta property="og:url" content="https://drmarkoconnor.github.io/more-git" />
     <meta property="og:image" content="https://drmarkoconnor.github.io/assets/images/us-14.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta property="article:author" content="https://www.facebook.com/" />
     <meta property="article:published_time" content="2020-12-04T20:12:21+00:00" />
     <meta property="article:modified_time" content="2020-12-04T20:12:21+00:00" />
-    <meta property="article:tag" content="Git" />
+    <meta property="article:tag" content="Fiction" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="git mergers" />
-    <meta name="twitter:description" content="git: Merging commits from branches 1. Fast-forward merge This can only be done if there are no other commits to the base branch since the branching took place It is the deafult method that git adopts git checkout master git merge featureX git branch -d featureX 2. Merge commit git" />
+    <meta name="twitter:title" content="A view from above" />
+    <meta name="twitter:description" content="
+  1917, London's East End, two nuns are tasked with opening a new convent. Can
+  they escape their explosive fate?
+
+  go to main story...
+
+" />
     <meta name="twitter:url" content="https://drmarkoconnor.github.io/" />
     <meta name="twitter:image" content="https://drmarkoconnor.github.io/assets/images/us-14.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="mark" />
     <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Git" />
+    <meta name="twitter:data2" content="Fiction" />
     <meta name="twitter:site" content="@mdoc007" />
     <meta name="twitter:creator" content="@mdoc007" />
     <meta property="og:image:width" content="1400" />
@@ -85,7 +97,13 @@
         "@type": "WebPage",
         "@id": "https://drmarkoconnor.github.io/more-git"
     },
-    "description": "git: Merging commits from branches 1. Fast-forward merge This can only be done if there are no other commits to the base branch since the branching took place It is the deafult method that git adopts git checkout master git merge featureX git branch -d featureX 2. Merge commit git"
+    "description": "
+  1917, London's East End, two nuns are tasked with opening a new convent. Can
+  they escape their explosive fate?
+
+  go to main story...
+
+"
 }
     </script>
 
@@ -98,7 +116,7 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="git mergers" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="A view from above" href="/feed.xml" />
 
 
 </head>
@@ -132,6 +150,9 @@ into the {body} of the default.hbs template -->
   <li class="nav-getting-started" role="menuitem">
     <a href="/tag/fiction/">fiction</a>
   </li>
+  <li class="nav-getting-started" role="menuitem">
+    <a href="/tag/tech/">tech</a>
+  </li>
 </ul>
 
         
@@ -159,7 +180,7 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <article class="post-full  tag-git tag-poetry tag-tech tag-fiction post ">
+        <article class="post-full  tag-fiction tag-short tag-story post ">
 
             <header class="post-full-header">
                 <section class="post-full-meta">
@@ -168,24 +189,20 @@ into the {body} of the default.hbs template -->
                         <span class="date-divider">/</span>
                         
                             
-                               <a href='/tag/git/'>GIT</a>,
+                               <a href='/tag/fiction/'>FICTION</a>,
                             
                         
                             
-                               <a href='/tag/poetry/'>POETRY</a>,
+                               <a href='/tag/short/'>[SHORT</a>,
                             
                         
                             
-                               <a href='/tag/tech/'>TECH</a>,
-                            
-                        
-                            
-                               <a href='/tag/fiction/'>FICTION</a>
+                               <a href='/tag/story/'>STORY]</a>
                             
                         
                     
                 </section>
-                <h1 class="post-full-title">git mergers</h1>
+                <h1 class="post-full-title">A view from above</h1>
             </header>
 
             
@@ -195,95 +212,12 @@ into the {body} of the default.hbs template -->
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <h1>git: Merging commits from branches</h1>
+                    <p>
+  1917, London's East End, two nuns are tasked with opening a new convent. Can
+  they escape their explosive fate?
 
-<h2>1. Fast-forward merge</h2>
-
-<p>
-  This can only be done if there are no other commits to the base branch since
-  the branching took place It is the deafult method that git adopts
+  <a href="/tufte_story.html">go to main story...</a>
 </p>
-
-<p><code>git checkout master</code></p>
-
-<p><code>git merge featureX</code></p>
-
-<p><code>git branch -d featureX</code></p>
-
-<h2>2. Merge commit</h2>
-
-<p><code>git checkout master</code></p>
-
-<p><code>git merge featureX</code></p>
-
-<blockquote>
-  <p>
-    there will be a message here to accept or not the merge B - a no
-    fast-forward merge means that a merge commit will always be created if you
-    want to force a merge commit use the following
-    <code>git merge --no-ff featureX</code>
-  </p>
-</blockquote>
-
-<p><code>git branch -d featureX</code></p>
-
-<h2>3. Squash merge</h2>
-
-<ol>
-  <li><code>git checkout master</code></li>
-  <li><code>git merge --squash featureX</code></li>
-  <li><code>git commit</code> a)accept or modify the squash message</li>
-  <li><code>git branch -D featureX</code></li>
-</ol>
-
-<h2>4. Rebase</h2>
-
-<p>
-  see
-  <a href="drafts5://open?uuid=E350B40F-DBFF-40DC-8C89-DC5A1D899195"
-    >this file</a
-  >
-</p>
-
-<h1>Resolving merge conflicts</h1>
-
-<p>
-  Essentially any files with conflicts are placed into the working tree after
-  being modified by git - a decision has to involve judgment and the files with
-  modified content are marked up by git with >>>> and &lt;&lt;&lt;&lt; and can
-  be edited, saved, added and them committed.
-</p>
-
-<p>
-  Again use <code>git log --oneline --graph --all</code> to see the results and
-  check all is good
-</p>
-
-<ol>
-  <li>checkout master</li>
-  <li>
-    merge featureX
-    <ul>
-      <li>a. CONFLICT - both modified fileA.txt</li>
-    </ul>
-  </li>
-  <li>fix fileA.txt</li>
-  <li>stage fileA.txt</li>
-  <li>commit the merge commit</li>
-  <li>delete the featureX branch label</li>
-</ol>
-
-<h2>resolving a merge conflict involves 3 commits</h2>
-
-<ol>
-  <li>the tip of the current branch ( 'ours' or 'mine')</li>
-  <li>the tip of the branch to be merged ('theirs')</li>
-  <li>a common ancestor ( 'merge base')</li>
-</ol>
-
-<h1>Aborting a merge attempt</h1>
-
-<p><code>git merge --abort</code></p>
 
                 </div>
             </section>
@@ -375,7 +309,7 @@ into the {body} of the default.hbs template -->
                         var disqus_config = function () {
                             this.page.url = 'https://drmarkoconnor.github.io/more-git';
                             this.page.identifier = '/more-git';
-                            this.page.title = 'git mergers';
+                            this.page.title = 'A view from above';
                         };
                         (function() {
                             var d = document, s = d.createElement('script');
@@ -400,62 +334,6 @@ into the {body} of the default.hbs template -->
                 
                 
                 
-                
-                    <article class="read-next-card"
-                        
-                            style="background-image: url(/assets/images/us-2.jpg)"
-                        
-                    >
-                        <header class="read-next-card-header">
-                            <small class="read-next-card-header-sitetitle">&mdash; mark &mdash;</small>
-                            
-                                <h3 class="read-next-card-header-title"><a href="/tag/git/">Git</a></h3>
-                            
-                        </header>
-                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
-</div>
-                        <div class="read-next-card-content">
-                            <ul>
-                                
-                                
-                                  
-                                    
-                                  
-                                
-                                  
-                                    
-                                        
-                                        
-                                            <li><a href="/git-basics">Markup is converted to html by tiinderbox</a></li>
-                                        
-                                    
-                                  
-                                
-                                  
-                                    
-                                        
-                                        
-                                            <li><a href="/network-command">git - Network commands</a></li>
-                                        
-                                    
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                                  
-                                
-                            </ul>
-                        </div>
-                        <footer class="read-next-card-footer">
-                            <a href="/tag/git/">
-                                
-                                    See all 2 posts  →
-                                
-                            </a>
-                        </footer>
-                    </article>
                 
             
 
@@ -527,13 +405,13 @@ into the {body} of the default.hbs template -->
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">git mergers</div>
+    <div class="floating-header-title">A view from above</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=git+mergers&amp;url=more-git"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=A+view+from+above&amp;url=more-git"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 

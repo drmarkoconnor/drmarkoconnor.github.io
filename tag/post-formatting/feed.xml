@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://drmarkoconnor.github.io/tag/post-formatting/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-01-25T12:33:24+00:00</updated>
+  <updated>2021-01-26T13:21:13+00:00</updated>
   <id>https://drmarkoconnor.github.io/tag/post-formatting/feed.xml</id>
 
   
@@ -110,13 +110,6 @@
       <updated>1999-01-01T20:18:29+00:00</updated>
       <id>https://drmarkoconnor.github.io/style-tbx-mar</id>
       <content type="html" xml:base="https://drmarkoconnor.github.io/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;is this the same as horizontal ruler
-&lt;hr /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;h1 id=&quot;heading1&quot;&gt;Heading 1&lt;/h1&gt;
 

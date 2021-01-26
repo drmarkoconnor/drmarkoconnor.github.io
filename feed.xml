@@ -1,92 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://drmarkoconnor.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" /><updated>2021-01-25T12:33:24+00:00</updated><id>https://drmarkoconnor.github.io/</id><title type="html">mark</title><subtitle>personal blog of Dr Mark OConnor - on writing - poetry - tech - miscellaneous</subtitle><entry><title type="html">git mergers</title><link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="git mergers" /><published>2020-12-04T20:12:21+00:00</published><updated>2020-12-04T20:12:21+00:00</updated><id>https://drmarkoconnor.github.io/more-git</id><content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://drmarkoconnor.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" /><updated>2021-01-26T13:21:13+00:00</updated><id>https://drmarkoconnor.github.io/</id><title type="html">mark</title><subtitle>personal blog of Dr Mark OConnor - on writing - poetry - tech - miscellaneous</subtitle><entry><title type="html">A view from above</title><link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="A view from above" /><published>2020-12-04T20:12:21+00:00</published><updated>2020-12-04T20:12:21+00:00</updated><id>https://drmarkoconnor.github.io/more-git</id><content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;p&gt;
+  1917, London's East End, two nuns are tasked with opening a new convent. Can
+  they escape their explosive fate?
 
-&lt;h2&gt;1. Fast-forward merge&lt;/h2&gt;
-
-&lt;p&gt;
-  This can only be done if there are no other commits to the base branch since
-  the branching took place It is the deafult method that git adopts
-&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git checkout master&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git merge featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git branch -d featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2&gt;2. Merge commit&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;git checkout master&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git merge featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;
-    there will be a message here to accept or not the merge B - a no
-    fast-forward merge means that a merge commit will always be created if you
-    want to force a merge commit use the following
-    &lt;code&gt;git merge --no-ff featureX&lt;/code&gt;
-  &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;code&gt;git branch -d featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2&gt;3. Squash merge&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;code&gt;git checkout master&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;git merge --squash featureX&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;git commit&lt;/code&gt; a)accept or modify the squash message&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;git branch -D featureX&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;4. Rebase&lt;/h2&gt;
-
-&lt;p&gt;
-  see
-  &lt;a href=&quot;drafts5://open?uuid=E350B40F-DBFF-40DC-8C89-DC5A1D899195&quot;
-    &gt;this file&lt;/a
-  &gt;
-&lt;/p&gt;
-
-&lt;h1&gt;Resolving merge conflicts&lt;/h1&gt;
-
-&lt;p&gt;
-  Essentially any files with conflicts are placed into the working tree after
-  being modified by git - a decision has to involve judgment and the files with
-  modified content are marked up by git with &gt;&gt;&gt;&gt; and &amp;lt;&amp;lt;&amp;lt;&amp;lt; and can
-  be edited, saved, added and them committed.
-&lt;/p&gt;
-
-&lt;p&gt;
-  Again use &lt;code&gt;git log --oneline --graph --all&lt;/code&gt; to see the results and
-  check all is good
-&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;checkout master&lt;/li&gt;
-  &lt;li&gt;
-    merge featureX
-    &lt;ul&gt;
-      &lt;li&gt;a. CONFLICT - both modified fileA.txt&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;fix fileA.txt&lt;/li&gt;
-  &lt;li&gt;stage fileA.txt&lt;/li&gt;
-  &lt;li&gt;commit the merge commit&lt;/li&gt;
-  &lt;li&gt;delete the featureX branch label&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;resolving a merge conflict involves 3 commits&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;the tip of the current branch ( 'ours' or 'mine')&lt;/li&gt;
-  &lt;li&gt;the tip of the branch to be merged ('theirs')&lt;/li&gt;
-  &lt;li&gt;a common ancestor ( 'merge base')&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1&gt;Aborting a merge attempt&lt;/h1&gt;
-
-&lt;p&gt;&lt;code&gt;git merge --abort&lt;/code&gt;&lt;/p&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="git" /><category term="poetry" /><category term="tech" /><category term="fiction" /><summary type="html">git: Merging commits from branches</summary></entry><entry><title type="html">Markup is converted to html by tiinderbox</title><link href="https://drmarkoconnor.github.io/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" /><published>2020-01-08T20:12:28+00:00</published><updated>2020-01-08T20:12:28+00:00</updated><id>https://drmarkoconnor.github.io/git-basics</id><content type="html" xml:base="https://drmarkoconnor.github.io/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
+  &lt;a href=&quot;/tufte_story.html&quot;&gt;go to main story...&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="fiction" /><category term="[short" /><category term="story]" /><summary type="html">1917, London's East End, two nuns are tasked with opening a new convent. Can they escape their explosive fate?</summary></entry><entry><title type="html">Markup is converted to html by tiinderbox</title><link href="https://drmarkoconnor.github.io/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" /><published>2020-01-08T20:12:28+00:00</published><updated>2020-01-08T20:12:28+00:00</updated><id>https://drmarkoconnor.github.io/git-basics</id><content type="html" xml:base="https://drmarkoconnor.github.io/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
 
 &lt;h2&gt;git [command] [--flag] [arguments]&lt;/h2&gt;
 
@@ -480,13 +397,6 @@ Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HE
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/section&gt;</content><author><name>ghost</name></author><category term="Getting started" /><summary type="html">There are lots of powerful things you can do with the Ghost editor If you've gotten pretty comfortable with all the basics of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown! As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using. Special formatting As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example: strike through highlight *escaped characters* Writing code blocks There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, like this. Larger snippets of code can be displayed across multiple lines using triple back ticks: .my-link { text-decoration: underline; } If you want to get really fancy, you can even add syntax highlighting using Prism.js. Full bleed images One neat trick which you can use in Markdown to distinguish between different types of images is to add a #hash value to the end of the source URL, and then target images containing the hash with special styling. For example: which is styled with... img[src$=&amp;quot;#full&amp;quot;] { max-width: 100vw; } This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles. Reference lists The quick brown fox, jumped over the lazy dog. Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference. Creating footnotes The quick brown fox[1] jumped over the lazy dog[2]. Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post. Full HTML Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example: Foxes are red ↩︎ Dogs are usually not red ↩︎</summary></entry><entry><title type="html">Styling</title><link href="https://drmarkoconnor.github.io/style-tbx-mar" rel="alternate" type="text/html" title="Styling" /><published>1999-01-01T20:18:29+00:00</published><updated>1999-01-01T20:18:29+00:00</updated><id>https://drmarkoconnor.github.io/style-tbx-mar</id><content type="html" xml:base="https://drmarkoconnor.github.io/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;is this the same as horizontal ruler
-&lt;hr /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;h1 id=&quot;heading1&quot;&gt;Heading 1&lt;/h1&gt;
 

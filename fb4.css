@@ -1,0 +1,145 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80%;
+  max-width: 1128px;
+  margin: 0 auto;
+  /* border: red 1px solid; */
+}
+.row {
+  display: flex;
+  /* justify-content: space-around; */
+}
+img {
+  width: 100%;
+}
+
+.splash {
+  background-color: #f3eed9;
+  width: 80%;
+  flex-direction: column;
+  min-height: 660px;
+  justify-content: center;
+
+  border-top: 1px black solid;
+  border-right: 1px black solid;
+  border-left: 1px black solid;
+  ;
+  /* padding: 3em; */
+}
+.splash-main-title {
+  width: 62%;
+  font-family: "Playfair Display" serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: #824936;
+  margin: 0 auto;
+  text-align: center;
+}
+.splash-first-title {
+  width: 62%;
+  text-transform: uppercase;
+  font-stretch: wider;
+  text-align: center;
+  font-family: "Roboto" sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #824936;
+  margin: 0 auto;
+}
+.top {
+  flex-direction: row;
+  width: 80%;
+  margin: 0 auto;
+  font-size: 21px;
+  border-left: black 1px solid;
+  border-right: black 1px solid;;
+  max-width: 1128px;
+}
+.top-title {
+  width: 100%;
+  font-size: 36px;
+  text-align: center;
+  padding-top:2em
+}
+.top-content {
+  flex-direction: row;
+  font-family: "Roboto" serif;
+  font-weight: 400;
+  padding: 2em;
+}
+
+p + p {
+  margin-left: 2em;
+}
+
+.middle {
+  color: #f3eed9;
+  background-color: #222c2a;
+  width: 80%;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content:space-between;
+  max-width: 1128px;
+  padding: 3em;
+}
+.middle-title {
+  width: 80%;
+  font-size: 36px;
+  margin: 1em auto;
+  /* padding-top: 1em; */
+}
+.middle-content {
+  font-family: "Roboto" serif;
+  font-weight: 400;
+  font-size: 21px;
+  width: 80%;
+  margin: 0 auto;
+}
+.middle-left {
+  flex-direction: column;
+}
+.middle-image {
+  width: 60%;
+  padding: 1em;
+  align-self: flex-start;
+  margin-top: 1em;
+}
+
+.bottom {
+  color: #f3eed9;
+  background-color: #824936;
+  width: 80%;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-evenly;
+  max-width: 1128px;
+  padding:3em;
+}
+.bottom-title {
+  width: 80%;
+  font-size: 36px;
+  margin: 1em auto;
+  /* padding-top: 1em; */
+}
+.bottom-content {
+  font-family: "Roboto" serif;
+  font-weight: 400;
+  font-size: 21px;
+  width: 80%;
+  margin: 0 auto;
+}
+.bottom-right {
+  flex-direction: column;
+}
+.bottom-image {
+  width: 60%;
+  /* padding: 3em; */
+  align-self: flex-start;
+  margin-top: 1em;
+
+}

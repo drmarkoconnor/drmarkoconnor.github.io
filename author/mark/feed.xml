@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://drmarkoconnor.github.io/author/mark/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-01-25T12:33:24+00:00</updated>
+  <updated>2021-01-26T13:21:13+00:00</updated>
   <id>https://drmarkoconnor.github.io/author/mark/feed.xml</id>
 
   
@@ -32,100 +32,17 @@
 
   
     <entry>
-      <title type="html">git mergers</title>
-      <link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="git mergers" />
+      <title type="html">A view from above</title>
+      <link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="A view from above" />
       <published>2020-12-04T20:12:21+00:00</published>
       <updated>2020-12-04T20:12:21+00:00</updated>
       <id>https://drmarkoconnor.github.io/more-git</id>
-      <content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;h1&gt;git: Merging commits from branches&lt;/h1&gt;
+      <content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;p&gt;
+  1917, London's East End, two nuns are tasked with opening a new convent. Can
+  they escape their explosive fate?
 
-&lt;h2&gt;1. Fast-forward merge&lt;/h2&gt;
-
-&lt;p&gt;
-  This can only be done if there are no other commits to the base branch since
-  the branching took place It is the deafult method that git adopts
-&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git checkout master&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git merge featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git branch -d featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2&gt;2. Merge commit&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;git checkout master&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git merge featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;
-    there will be a message here to accept or not the merge B - a no
-    fast-forward merge means that a merge commit will always be created if you
-    want to force a merge commit use the following
-    &lt;code&gt;git merge --no-ff featureX&lt;/code&gt;
-  &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;code&gt;git branch -d featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2&gt;3. Squash merge&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;code&gt;git checkout master&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;git merge --squash featureX&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;git commit&lt;/code&gt; a)accept or modify the squash message&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;git branch -D featureX&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;4. Rebase&lt;/h2&gt;
-
-&lt;p&gt;
-  see
-  &lt;a href=&quot;drafts5://open?uuid=E350B40F-DBFF-40DC-8C89-DC5A1D899195&quot;
-    &gt;this file&lt;/a
-  &gt;
-&lt;/p&gt;
-
-&lt;h1&gt;Resolving merge conflicts&lt;/h1&gt;
-
-&lt;p&gt;
-  Essentially any files with conflicts are placed into the working tree after
-  being modified by git - a decision has to involve judgment and the files with
-  modified content are marked up by git with &gt;&gt;&gt;&gt; and &amp;lt;&amp;lt;&amp;lt;&amp;lt; and can
-  be edited, saved, added and them committed.
-&lt;/p&gt;
-
-&lt;p&gt;
-  Again use &lt;code&gt;git log --oneline --graph --all&lt;/code&gt; to see the results and
-  check all is good
-&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;checkout master&lt;/li&gt;
-  &lt;li&gt;
-    merge featureX
-    &lt;ul&gt;
-      &lt;li&gt;a. CONFLICT - both modified fileA.txt&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;fix fileA.txt&lt;/li&gt;
-  &lt;li&gt;stage fileA.txt&lt;/li&gt;
-  &lt;li&gt;commit the merge commit&lt;/li&gt;
-  &lt;li&gt;delete the featureX branch label&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2&gt;resolving a merge conflict involves 3 commits&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;the tip of the current branch ( 'ours' or 'mine')&lt;/li&gt;
-  &lt;li&gt;the tip of the branch to be merged ('theirs')&lt;/li&gt;
-  &lt;li&gt;a common ancestor ( 'merge base')&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1&gt;Aborting a merge attempt&lt;/h1&gt;
-
-&lt;p&gt;&lt;code&gt;git merge --abort&lt;/code&gt;&lt;/p&gt;</content>
+  &lt;a href=&quot;/tufte_story.html&quot;&gt;go to main story...&lt;/a&gt;
+&lt;/p&gt;</content>
 
       
       
@@ -142,17 +59,15 @@
       
 
       
-        <category term="git" />
-      
-        <category term="poetry" />
-      
-        <category term="tech" />
-      
         <category term="fiction" />
+      
+        <category term="[short" />
+      
+        <category term="story]" />
       
 
       
-        <summary type="html">git: Merging commits from branches</summary>
+        <summary type="html">1917, London's East End, two nuns are tasked with opening a new convent. Can they escape their explosive fate?</summary>
       
 
       
@@ -402,13 +317,6 @@ Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HE
       <updated>1999-01-01T20:18:29+00:00</updated>
       <id>https://drmarkoconnor.github.io/style-tbx-mar</id>
       <content type="html" xml:base="https://drmarkoconnor.github.io/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;is this the same as horizontal ruler
-&lt;hr /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;h1 id=&quot;heading1&quot;&gt;Heading 1&lt;/h1&gt;
 
