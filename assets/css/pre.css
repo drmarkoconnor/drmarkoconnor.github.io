@@ -1,0 +1,14 @@
+pre {
+  white-space: pre-wrap;
+  background-color: rgb(226, 223, 223);
+  color: rgb(7, 6, 6);
+  font-size: 1.3em;
+  font-family: Roboto;
+  font-weight: 400;
+  width: 100%;
+  max-width: 800px;
+  line-height: 1.8em;
+  border: lightgrey 1px solid;
+  margin: 0 auto;
+  padding: 2em;
+}

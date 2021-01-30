@@ -1,284 +1,468 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://drmarkoconnor.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" /><updated>2021-01-26T13:26:34+00:00</updated><id>https://drmarkoconnor.github.io/</id><title type="html">mark</title><subtitle>personal blog of Dr Mark OConnor - on writing - poetry - tech - miscellaneous</subtitle><entry><title type="html">A view from above</title><link href="https://drmarkoconnor.github.io/more-git" rel="alternate" type="text/html" title="A view from above" /><published>2020-12-04T20:12:21+00:00</published><updated>2020-12-04T20:12:21+00:00</updated><id>https://drmarkoconnor.github.io/more-git</id><content type="html" xml:base="https://drmarkoconnor.github.io/more-git">&lt;p&gt;
-  1917, London's East End, two nuns are tasked with opening a new convent. Can
-  they escape their explosive fate?
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://drmarkoconnor.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" /><updated>2021-01-30T21:02:06+00:00</updated><id>https://drmarkoconnor.github.io/</id><title type="html">mark</title><subtitle>personal blog of Dr Mark OConnor - on writing - poetry - tech - miscellaneous</subtitle><entry><title type="html">Certifiable Love</title><link href="https://drmarkoconnor.github.io/2021/01/30/certifiable-lo.html" rel="alternate" type="text/html" title="Certifiable Love" /><published>2021-01-30T20:48:36+00:00</published><updated>2021-01-30T20:48:36+00:00</updated><id>https://drmarkoconnor.github.io/2021/01/30/certifiable-lo</id><content type="html" xml:base="https://drmarkoconnor.github.io/2021/01/30/certifiable-lo.html">&lt;p&gt;&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Certifiable Love&lt;/title&gt;
+    &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; /&gt;
+    &lt;link
+      href=&quot;https://fonts.googleapis.com/css2?family=Montserrat:wght@300&amp;amp;family=Roboto+Slab&amp;amp;display=swap&quot;
+      rel=&quot;stylesheet&quot;
+    /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+  &lt;blockquote&gt; An inspiring life coach, a grateful student - a story of obsession and its deadly consequences&lt;/blockquote&gt;&lt;/p&gt;
+      &lt;section&gt;
+      &lt;h2&gt;Certifiable Love&lt;/h2&gt;&lt;/p&gt;
 
-  &lt;a href=&quot;/tufte_story.html&quot;&gt;go to main story...&lt;/a&gt;
-&lt;/p&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="fiction" /><category term="[short" /><category term="story]" /><summary type="html">1917, London's East End, two nuns are tasked with opening a new convent. Can they escape their explosive fate?</summary></entry><entry><title type="html">Markup is converted to html by tiinderbox</title><link href="https://drmarkoconnor.github.io/git-basics" rel="alternate" type="text/html" title="Markup is converted to html by tiinderbox" /><published>2020-01-08T20:12:28+00:00</published><updated>2020-01-08T20:12:28+00:00</updated><id>https://drmarkoconnor.github.io/git-basics</id><content type="html" xml:base="https://drmarkoconnor.github.io/git-basics">&lt;h1&gt;git: Basic git set up for new projects including making/deleting a branch&lt;/h1&gt;
+&lt;pre style=&quot;
+        white-space: pre-wrap;
+        background-color: rgb(226, 223, 223);
+        color: rgb(7, 6, 6);
+        font-size: 1.3em;
+        font-family: Roboto;
+        font-weight: 400;
+        width: 100%;
+        max-width: 800px;
+        line-height: 1.8em;
+        border: lightgrey 1px solid;
+        margin: 0 auto;
+        padding: 2em;&quot;&gt;
 
-&lt;h2&gt;git [command] [--flag] [arguments]&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;inside moc/repos&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;mkdir [name of your new project]&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;cd [name of your new project]&lt;/code&gt; 
-&lt;blockquote&gt;
-  &lt;p&gt;( move to the new directory )&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git init&lt;/code&gt;
-These are the basic steps to create a project that can be then version controlled by github.
-git will confirm that a .git directory has been created&lt;/li&gt;
-&lt;/ul&gt;
+‘Mr Gilmour, don’t push. Wait your turn like the rest of us.’
+    Typical, so much fuss over a little prod. She had scrunched up her nose too, so that her eyes were narrow slits. She was Marion, I think, or Marlene or some such tartish equivalent, but I preferred Fat Rat. I had nicknames for them all of course. We were waiting for our end of course certificates, and Taylor had asked us to form a queue. Ignoring her, I maintained my concentration on calculating when I would be at the front of the queue. Nine to go. I imagined how Taylor would be with me. He’d have to be careful in front of all these people, I knew that. Perhaps, a whispered “well done” or a firm handshake that lingered just enough to pass an understanding. Eight. There was much that had passed unsaid between us over the last three months. I could feel it. Seven. I noticed a faded poster on the library wall. Its corner flapped in a strong down-draught from the cracked skylight overhead. Self-exploration and discovery - A twelve-week life coaching course by Taylor Houston. Six. Five. It had attracted an odd collection of students, which I guess was to be expected. Women with a taste for cheap perfume, pinot grigio and saturated fats. Flatulent baggy-arsed men who thought a catchy cliché could remove the odour of their intense sadness. Thank God for me. He couldn’t say that, but I could. Four. But he thought it, surely. Three. 
+    I closed my eyes in preparation and thought of Taylor’s blond fringe, the way it flopped forward when he got animated in his lectures. He would sweep it back and often hold it in place until he finished his point. His tanned face always set in a natural looking smile and he moved with an easy casual elegance, like a well rehearsed dancer stretching out, comfortable in his skin. Taylor would be pleased with that observation, I thought. I recorded it in my notebook and decided I would share it with him. There was so much I wanted to share with him and thank him for. Two, Fat Rat was using every pathetic trick in her rodent vocabulary. I prodded. Taylor shook hands and passed her certificates over. I gripped the inside of my trouser pocket to keep my hand dry, aware that this would be the first time our hands might touch.
+    Fat Rat took her certificate and led Taylor to the other side of the room. They were laughing at something she had said that I couldn’t quite hear. Selfish bitch. He gave her a hug and rubbed her low back as they walked towards the library door.  I picked up my certificate and waited. I noticed its border had faded towards the bottom.
+    ‘Taylor,’ I said, projecting my voice across the room, ‘I think your printer is running out of ink.’  I felt my face flush as he approached. He reached out his hands to me. His arms looked so strong, so safe. I held out the certificate for his inspection and he took it from me. I had missed my handshake and regretted picking it up early.
+    ‘Yeah I see, it’s all streaked. Sorry, my friend,’ he said, stroking me on the arm. ‘Look, If you’re bothered, I’ll drop one round later.’
+    ‘Tonight?’  I said. ‘Yes...’ my dry lips stuck trying to form the word please.  The word friend reverberated in my head and made me feel dizzy. I concentrated on not fainting. I had often wondered if Taylor would ever visit my flat. I imagined us drinking Martinis and laughing about Fat Rat, learning to become closer friends.
+    ‘OK I’ll pop it in on my way out tonight. You’re in those flats on Stonehart Avenue, yeah?’
+     I could still feel the warmth through my shirt where he had touched me. I just stared right back at him.
+    ‘Hey what’s with the Fifth Amendment? Don’t go all Tony “Big Man” Soprano on me now,’ said Taylor, faking an Italian accent, as he pretended to adjust an oversize invisible jacket. It was his favourite impression, Tony Soprano. I had bought a boxed DVD set of the Soprano series shortly after he had told us. I watched the entire series, five times. 
+    ‘Capiche?’ said Taylor. He pushed the certificate into my hand and I felt his fingers lightly flick over my palm.
+    Taylor’s wife, Holly, was standing in the doorway. She often arrived at the end of a teaching session to drive him home. I didn’t like her. She had a pinched face as if she constantly smelt something rancid. 
+    ‘Taylor, would you like to go out for a drink?’ I shuffled my feet. ‘Perhaps this evening? I know an Italian place...’ I kept my gaze on the certificate in my hand. The words felt unreal. But I had said them as planned. I wanted to say them again and again, softly under my breath, so that Holly couldn’t hear them. Bitch.
+    ‘Look at me, Chris,’ said Taylor.
+    I couldn’t. I imagined his smile had gone, and I started to feel my legs weaken.
+    ‘Maybe just a drink when you pop over with the certificate?’ I wasn’t sure I had made myself loud enough for Taylor to hear. Holly walked over, her stiletto heels like the sound of a high-pitched metronome.
+    ‘I’m out with Holly tonight, Chris.’
+    ‘Hi ya,’ said Holly.
+    I looked up and saw her looking at my certificate, tilting her head to read it.
+    ‘Hi ya, Chris Gilmour.’ She peered into her compact mirror, teetered on her heels, and took Taylor’s arm to steady herself. She adjusted her skin tight leggings, pulling them up with one hand, so that every detail of her gusset was displayed. She reminded me of the whores on Delaware Road. Whore. That was her nickname.
+    ‘What you guys talking about then?’
+    I had lost my chance. Bitch. Whore. ‘A stranger is a friend waiting for that first hello,’ Taylor would say at the end of each session. There it was, that word, ‘friend,’ again. He had said it too many times for it not to mean something to him. To us. 
+    ‘Not much love. Look Chris’s certificate got all messed up,’ said Taylor. He placed an arm around Holly’s shoulder, and squeezed her into his side. This caused her breasts to bulge out of her leopard print top. ‘I’m going to drop another one round later.’
+    ‘Ah, shame, you’ve all worked hard I ‘spect, Mr…’ Holly tilted her head at the certificate again, ‘Gimmor.’ Holly opened her compact, and applied a powder puff to her cheeks, as if the effort of talking must have deranged features she had checked only two minutes before.
+‘Gilmore. It’s Gilmore.’ If the course had taught me anything this was the moment I had to bring it together. I wasn’t just any guy on the course. How could she lump me in with Fat Rat and the rest, it was preposterous. I looked down at the certificate and remembered a quote from week nine. ‘Tomorrow is the day you enjoy what you did right today.’ 
+    ‘So about the drink?’ I turned and stepped to Taylor’s other side. ‘Will you come?’
+    ‘Like I said Chris, not for now.’ He gripped Holly’s arm and led her to the door. As he opened the door he turned to face me. ‘I’m sorry about the certificate. I’ll get it all sorted tonight, I promise,’ said Taylor.
+        ‘Of course, received, understood and certificated.’ I held the certificate aloft, and gave it a little shake. 
+    Holly laughed and tottered down the front steps. They were gone. I felt foolish thinking this would be the time and place to put my plan of an evening out with Taylor into place. But he had said ‘not now’ and hadn’t said ‘no.’ Perhaps he was giving me clues, and I was too dumb to realise. I ran out to the foyer and saw them on the outside steps.
+    ‘Taylor,’ I no longer knew how loud or soft my voice was, ‘please, a new certificate, you’ll drop it round? You promise?’
+    ‘Sure man.’ He extended his thumb and index finger into a gun shape, and flicked his wrist. ‘Chow for now, keep to the plan man.’
+    ‘Number nine, Stonehart Mansions, top floor,’ I said.
+    He stooped and placed both arms around Holly’s waist, and kissed her. He raised his hand, and while still kissing, gave me a thumb up sign. She would need her compact again, I thought. He picked Holly up and threw her into the passenger seat of his Saab Convertible. I remembered his hug of Fat Rat. He seemed so masterful around women. He could fool any of them. 
+    I withdrew to the silence of the empty foyer and let my breathing return to a normal rate. I ran my fingers around the edge of the certificate, and caressed the lettering of his name. I placed the certificate in my notebook and made an entry; ‘Ready to face life’s challenges, confirmed by Taylor Houston, (My friend).’ Of course it wasn’t going to be an ending. We had bonded. Taylor knew this, even if Holly didn’t.  I could see that it would be difficult for Taylor to talk freely in front of Holly, and felt buoyed he had given me a thumbs up. I hoped now I hadn’t been too pushy. She was the kind of woman who demanded attention, like a kitten, bristling with energy and excitement for shiny worthless baubles.  She had no interest in the deeper issues that I knew Taylor would yearn to discuss. That was something I could do for him. It was becoming clearer to me. I was just what he needed.  Tonight was my chance to prove it to him. 
+##
+I looked around the flat and tried to see it with a new eye, the eye of an important guest. On the polished oak floor of the main room, a two-seater leather buttoned Chesterfield and mahogany penny-table, took centre stage. The living area was open plan with no dividing wall between the hallway and the main room. It had been considered very avant-garde twenty years ago, and I had seen no reason to change it since. The floor timbers were old, and creaked like a ship when the wind’s up. I employed the use of a cleaner from time to time, a Ukranian girl. Her lack of English was useful in keeping conversation basic and functional. I was confident the toilet and bathroom would not attract any criticism from Taylor. The kitchen was clean too. I seldom cooked. The Ukranian had placed a bowl of pot-pourri on the penny table, which filled the room with a scent of lavender. I moved it into the bedroom, as tonight I would need the table for Martinis. The bedroom was untidy. I never allowed her to clean it.  I wondered now whether that was a mistake.
+    ‘You look tired Taylor. We’ve had too many Martinis.’ I practiced the phrase into the small hallway mirror, imagining Taylor, tipsy, deliberating whether he should drive home. Yes, I could see that’s how the conversation might go and an offer to stay over could be a logical conclusion of the night’s events. I tidied the bedroom and then skipped into the kitchen to prepare the Martinis. 
+    I had taken the flat, and shipped the Chesterfield and Penny-table from my father’s estate, after his death. I opened a window to air the room of the lingering lavender smell, and placed my Martini onto the Penny-table and sank back into the Chesterfield. A bare light bulb swung from a yellowed cord above my head, and cast a bright-refracted pattern from the Martini glass. It was mesmerising. Taylor and I would be sitting here soon talking, drinking ... becoming friends. 
+    I remembered my Father entertaining friends. I would sneak down the stairs when I heard the deep mumbled voices of adult guests, and peer through the stair rods into the Drawing Room. I would catch a glimpse of him striding around larger than life, Gin in hand, laughing with a debonair air that gave no clue to his occasional lapses of temper. The same Chesterfield, centre stage in his Drawing Room, surrounded by wall to wall oak bookshelves brimming with books and papers. He looked so happy, so peaceful. Mother never visited the Drawing Room. After she died, Father kept the Drawing Room door shut, and I never again heard the hubbub of excited adults voices. I never visited the Drawing Room again either after Father died. He was found dead, by my aunt. She told me he had slipped and hit his head, which had accounted for the amount of blood found on the arm of the Chesterfield. Some stains are never removed. 
+     I laid out my notes on the floor in front of the Chesterfield. There was another single armchair in front of a small television and DVD player I had purchased for watching the Sopranos series. I placed a small nest of occasional tables to the left of it, in case Taylor wanted a change of scene. I couldn’t decide on whether to leave the boxed set out. It would be useful I thought, in case conversation was difficult; an icebreaker. I decided to leave it on top of the television.  I placed the new glass ashtray on the arm of the Chesterfield, but hoped Taylor wouldn’t smoke. His choice, obviously.
+    I felt a growing excitement and decided I would make myself another Martini. I placed my prepared questions on top of a single sheet of possible projects that I felt would fit in with some of the ideas Taylor had outlined in his course. ‘You’re the seed, I am the gardener, you will grow, just wait your turn.’ It was a lovely metaphor that Taylor always said with such gravitas, stressing each word in a slow precise way. My first question would be on the intriguing ‘Yesterday doesn’t count phrase.’ I often felt I was caught like a fly, in a spider’s web of yesterdays. Each gossamer sticky thread a memory from the past that held me, tied me down, unable to explore the future. 
+    I had other questions too. ‘Decide, Done it, Do it, Good’, seemed wrong with respect to tenses and sequence. Surely ‘Do it’ should be before ‘Done it?’ So many questions to explore and a new certificate as well to look forward to. I fixed another Martini as a small celebration of my good fortune.
+    I heard the pinging sound of the lift. Footsteps. This must be it. I downed the Martini and went through to the kitchen to make a start on two fresh ones. I left the door ajar wanting to avoid any awkwardness and thought it better Taylor enters and finds me casually making drinks in the kitchen. I waited until I could hear the characteristic creak from the central floorboard. That would mean Taylor was inside and would be perfect timing for me to enter with the drinks. I ran through my opening line, ‘Hi Taylor, Martini?’ I had practiced variations of opening lines but settled on this as it had a simplicity that I thought would suit the start of a relaxed evening. There was no creak. Instead I could hear what sounded like the postman fumbling with the strong spring of the front door’s letter box. The door swung back and slammed into the wall. 
+    ‘Hey! That’s taken my nail off.’
+    Holly was sitting in the doorway, sucking on her index finger.  I saw my certificate folded in half, guillotined by the letter box.
+    ‘What are you doing here?’ I said. I placed the Martinis on the coffee table and walked over to look down the corridor for signs of Taylor. Holly looked up at me and stretched up both hands.
+    ‘I slipped. The door was open, it swung back,’ said Holly.
+    ‘Where’s Taylor?’ I tugged at the certificate stuck in the letterbox. It tore into two pieces. ‘You stupid ... look at my certificate?’ I screwed up the fragments and threw them down at Holly and then strode to the window, to see if Taylor was in the car.
+    ‘Charming, thanks for nothing,’ said Holly. She struggled to her feet, smoothed down her ruffled skirt and searched her handbag. She pulled out her compact and used its small mirror to methodically check every square inch of her face.
+    I felt lightheaded. I suspected the gin had started to take effect. I returned to the Martinis and took a large gulp. The alcohol felt cool at first, and then I felt its warmth spread through my chest.
+    ‘Your door was open. It slammed back when I was posting ... that,’ said Holly pointing to the scrunched ball of paper I had thrown at her feet. ‘Taylor said you were keen to get it tonight.’ She laughed, and hid her face behind a cupped hand. ‘You know what I mean. A new certificate.’
+    ‘Where is Taylor?’ I said. I used a slow deliberate tone, so that she couldn’t be in any confusion about the question. I took a swig of Taylor’s Martini, which kept the fire well stoked. ‘Well?’
+    ‘In the car, outside. We’re going out to Domenicos. Thanks for helping me up’, said Holly. She was still peering at her compact and applying a tanned brush to her cheeks. She kicked the ball of paper, towards the fireplace. As she did her stiletto heel caught in a knothole of the floorboard. She stumbled and her left knee hit the floor hard.   ‘Ow…ow…ow… I think I’ve bust my knee. Help me up... please.’
+    I laughed. Clown. Whore. Her face looked changed, sad, frightened as I approached.
+    ‘You’ve pushed your heel through a knothole. It’s stuck. You’ll have to take it off,’ I said as I finished the Martini. I decided to fix two more. As I walked towards the kitchen, I heard a sobbing sound from the hunched Holly.
+    ‘Where you going? Come back and take my arm, please, I can’t balance like this.’
+    I returned with two fresh Martinis and placed them down on the television, near the window, and took another look up and down the street. Holly remained on the floor like a sprinter waiting for the starter gun, her right knee bent, right foot stuck firm with her left leg stretched out behind her. She now had her mobile in her hand. 
+    ‘Stop crying woman,’ I said as I bent down to take the phone from her.  I was caught by a pungent smell of orange blossom perfume. Close up to her face I could see caked layers of foundation covering her pores, mascara heaped in thick rows on her eyelashes. Lips, blood red, glistening from the light of the bulb swinging above. Whore.
+    I stepped over her right ankle and gripped her shoe. ‘Why did you fold my certificate, Holly?’ I snapped hard and broke off the heel from the body of the shoe. ‘Did Taylor tell you to do that, I don’t think so. I’ll need another one. Is that what you were ringing about?’
+    ‘Do you know how much those cost? Look, get me up. Please, my knee is killing me.’
+    I flicked open her phone and picked Taylor from the contact menu.
+    ‘Hi Babes, you’ve been a long time, can’t you find it?’ said Taylor. A feeling of light-headedness intensified. He must be downstairs. He was coming after all. She must have tricked him, told him not to come. Bitch.
+    ‘Hi Taylor, Martini?’ In the circumstances I thought it was a good performance and glad I had rehearsed it.
+    ‘What, who is this? Is that you Mr Gilmour? Where’s Holly? Why have you got her phone?’ Said Taylor. 
+    ‘Yes it’s… Chris. I’m expecting my certificate. You said you would drop it round. I have a Martini for you. Capiche?’ I felt eloquent, decisive; the fire inside was now a confident ember.
+    ‘Put me onto Holly now. No wait, I’m coming up.’ The phone went dead. He was coming, this time, he was really coming. 
+    Holly was now standing and trying to piece together her shoe. She looked like a child with a two-piece jigsaw, not able to figure it out. I laughed. ‘Taylor is coming, he’ll see what you’ve done,’ I said.
+    ‘Are you mad? He said you were odd, said I should come and take a look. Never said you was this kooky. I’m gonna kill him,’ said Holly.
+    ‘He wouldn’t say that. I’m a seed, I am going to grow, he’s my gardener.’ Holly started to laugh, her face looked like a grotesque gargoyle, her lips parting like a Cobra ready to spit its poison. ‘Tomorrow is the day you enjoy what you do today.’ I repeated Taylor’s mantra, getting comfort from each repetition. I wanted to drown out the words Holly was shouting. I was dizzy again. I could tell I was swaying. I reached for the Martini and downed it in one, then picked up the second. I wanted to be able to give it to Taylor. ‘Hi Taylor, Martini,’ I said as I moved over towards the sanctuary of the Chesterfield. ‘Hi Taylor Martini ... Hi Taylor Martini.’ I felt comforted by the words. I couldn’t tell when he would be here now, time had stopped.
+    I couldn’t focus. A shape appeared at the door. I could hear a new voice. The room was spinning. I heard a clip clopping sound and realised Holly was limping over towards me. That orange smell again, I felt sick. It was so overpowering I could taste it. I spat to remove it.
+    ‘What the… ? You just spat in my face. Taylor, he spat in my face, Taylor, Taylor,’ said Holly.
+    She was screaming Taylor’s name in my face. This harlot who shouldn’t even be allowed to say his name, let alone touch him, kiss him.  I staggered back and reached behind to steady myself. My hand fell onto the glass ashtray. I gripped its sides and felt its cool surface. It felt like an anchor, a point of reference in the whirling blur of the room. It felt snug in my grip. ‘Decide, done it, do it, good. Decide, do it, done it, good.’
+    ‘Hey Holly back off, I don’t think he’s well.’
+    It was Taylor’s voice. Another anchor to focus on. He sounded annoyed with Holly.
+    ‘He spat in my face. He’s spouting random crap too, ever since I got here. Look at my fucking shoe.’
+    My view cleared a little. There he was, standing in the doorway. 
+    ‘It’s not crap. Well, it’s the stuff I teach on the course. Decide, done it, do it, decide, good, you’ve heard all that before,’ said Taylor.
+    ‘Decide done it, do it, good.’ I repeated Taylor’s words. Taylor was here, he was in my flat, we were talking. Decide, do it, done it, good.  Taylor’s own words in my own flat. The order mattered little now, tomorrow would be the day Taylor and I would enjoy the deeds of today. It was all so clear to me now, as if the cool glass in my hand had condensed the mist around me, clearing the hazy path that lay between Taylor and me.
+    Holly was still too close, shouting too loud, her lips were still too red, too venomous. I brought the glass down on her head. She buckled like a stunned pig at an abattoir. Again, the ashtray slammed into her head. Blood spurted up and over the arm of the Chesterfield, dripping like a warm strawberry jam onto her face. She fell to the floor. I heard the creak of the central floorboard. Taylor was running towards me. He knocked me backwards, his body landing on top of me, shaking my arm until the ashtray fell to the ground. He held me down and I felt my face in the cool concavity of the leather buttons. His strong arms were pressing down on my chest, squeezing my breath out. I couldn’t speak, just a feeble whisper with my exhaling breath.  ‘Decided, done it ... you’re right ... its good.’ He was in my arms at last.
 
-&lt;p&gt;&lt;code&gt;ls -la&lt;/code&gt;
-will show the . .. .git structure now inside the new project&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/p&gt;
+&lt;/pre&gt;
 
-&lt;p&gt;&lt;code&gt;
-echo &amp;gt;fileA.txt
-&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="fiction" /><summary type="html">Certifiable Love An inspiring life coach, a grateful student - a story of obsession and its deadly consequences Certifiable Love</summary></entry><entry><title type="html">A View from Above</title><link href="https://drmarkoconnor.github.io/2021/01/01/view-from-above-post.html" rel="alternate" type="text/html" title="A View from Above" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>https://drmarkoconnor.github.io/2021/01/01/view-from-above-post</id><content type="html" xml:base="https://drmarkoconnor.github.io/2021/01/01/view-from-above-post.html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;A fateful short story about regret in war torn London&lt;/title&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;this CLI creates an empty txt file&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;git add fileA.txt&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;this adds the file to the &lt;strong&gt;staging area&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;git commit -m '_message_'&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;there are other -switches like -verbose&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;code&gt;git branch&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;will list all the branches in the repos project and an asterisk indicates the current one&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;two command approach&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;git branch featureX&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git checkout featureX&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;one command approach&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;git checkout -b featureX&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;use the log function with graph to check&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;git log --oneline --graph&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;git checkout [name of branch]&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;this allows switching between branches&lt;/p&gt;
-&lt;/blockquote&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;File changes on branches&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;change the contents of the file whilst in the new branch&lt;/li&gt;
-&lt;li&gt;then change back to the master branch &lt;code&gt;git checkout master&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;open file and you will see that the changes to the file are not present ( as they were made under the featureX branch of which the master branch has no knowledge )&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;code&gt;use git log --oneline --graph --all&lt;/code&gt; to see all the commits attached to the branches in the repo&lt;/p&gt;
-
-&lt;p&gt;featureX branch has a more recent commit. Check back into this branch now&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;git checkout featureX&lt;/code&gt; &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;add another change to the file and add it to stage and then commit it.
-There are now two commits on the featureX branch
-can use the &lt;code&gt;HEAD~&lt;/code&gt; tilde mark to checkout a previous commit&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;code&gt;git checkout HEAD~&lt;/code&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;this will raise a warning about a DETACHED HEAD state&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;go back to master ( by &lt;code&gt;git checkout master&lt;/code&gt; )&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Let's say that you &lt;strong&gt;don't want to merge&lt;/strong&gt; any changes made on the new file ( merging coming later )  and want to delete the branch &lt;strong&gt;featureX&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git branch  -d featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;This however will only produce a warning becasue there are two commits that will be left dangling. If you want to keep them you could create a new branch for them.&lt;/p&gt;
-
-&lt;p&gt;However the warning gives information about how you can delete with a -D option switch.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;ie &lt;code&gt;git branch  -D featureX&lt;/code&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;use &lt;code&gt;git log&lt;/code&gt; and &lt;code&gt;git status&lt;/code&gt; frequently to see where you are&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(If you are interested) Want to &quot;undo&quot; the deleting of the featureX branch?
-Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HEAD references. Since Git doesn't immediately delete commits, you can find the SHA-1 of your most recent featureX branch there.&lt;/p&gt;
-
-&lt;p&gt;Copy the SHA-1 of the &quot;add feature bigger mistake&quot; commit. Execute git checkout &lt;strong&gt;-b&lt;/strong&gt; &lt;code&gt;[this switch doesn't seem to work]??&lt;/code&gt; featureX [SHA-1 YOU COPIED] .&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;use &lt;code&gt;git log&lt;/code&gt; and &lt;code&gt;git status&lt;/code&gt; frequently to see where you are&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="git" /><summary type="html">git: Basic git set up for new projects including making/deleting a branch</summary></entry><entry><title type="html">git - Network commands</title><link href="https://drmarkoconnor.github.io/network-command" rel="alternate" type="text/html" title="git - Network commands" /><published>2020-01-03T20:10:46+00:00</published><updated>2020-01-03T20:10:46+00:00</updated><id>https://drmarkoconnor.github.io/network-command</id><content type="html" xml:base="https://drmarkoconnor.github.io/network-command">&lt;h1&gt;git: Network commands&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;fetch&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;retieves new objects and references from the remote repository&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;push&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;adds new objects an references to the remotes repository&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;pull&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;fetches and merges commits locally&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;clone&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;
-        copies a remote repository ( if creating with github make sure it is not
-        empty to ensure tracking branches are created automatically
-      &lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="git" /><category term="post_formatting" /><category term="poetry" /><summary type="html">git: Network commands</summary></entry><entry><title type="html">Using the Ghost editor</title><link href="https://drmarkoconnor.github.io/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" /><published>2017-07-27T10:00:00+01:00</published><updated>2017-07-27T10:00:00+01:00</updated><id>https://drmarkoconnor.github.io/the-editor</id><content type="html" xml:base="https://drmarkoconnor.github.io/the-editor">&lt;p&gt;Ghost uses a language called &lt;strong&gt;Markdown&lt;/strong&gt; to format text.&lt;/p&gt;
-&lt;p&gt;
-  When you go to edit a post and see special characters and colours intertwined
-  between the words, those are Markdown shortcuts which tell Ghost what to do
-  with the words in your document. The biggest benefit of Markdown is that you
-  can quickly apply formatting as you type, without needing to pause.
-&lt;/p&gt;
-&lt;p&gt;
-  At the bottom of the editor, you'll find a toolbar with basic formatting
-  options to help you get started as easily as possible. You'll also notice that
-  there's a &lt;strong&gt;?&lt;/strong&gt; icon, which contains more advanced shortcuts.
-&lt;/p&gt;
-&lt;p&gt;
-  For now, though, let's run you through some of the basics. You'll want to make
-  sure you're editing this post in order to see all the Markdown we've used.
-&lt;/p&gt;
-&lt;h2 id=&quot;formattingtext&quot;&gt;Formatting text&lt;/h2&gt;
-&lt;p&gt;
-  The most common shortcuts are of course, &lt;strong&gt;bold&lt;/strong&gt; text,
-  &lt;em&gt;italic&lt;/em&gt; text, and &lt;a href=&quot;https://example.com&quot;&gt;hyperlinks&lt;/a&gt;. These
-  generally make up the bulk of any document. You can type the characters out,
-  but you can also use keyboard shortcuts.
-&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code&gt;CMD/Ctrl + B&lt;/code&gt; for Bold&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;CMD/Ctrl + I&lt;/code&gt; for Italic&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;CMD/Ctrl + K&lt;/code&gt; for a Link&lt;/li&gt;
-  &lt;li&gt;
-    &lt;code&gt;CMD/Ctrl + H&lt;/code&gt; for a Heading (Press multiple times for
-    h2/h3/h4/etc)
-  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-  With just a couple of extra characters here and there, you're well on your way
-  to creating a beautifully formatted story.
-&lt;/p&gt;
-&lt;h2 id=&quot;insertingimages&quot;&gt;Inserting images&lt;/h2&gt;
-&lt;p&gt;
-  Images in Markdown look just the same as links, except they're prefixed with
-  an exclamation mark, like this:
-&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;![Image description](/path/to/image.jpg)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;img
-    src=&quot;https://casper.ghost.org/v1.0.0/images/computer.jpg&quot;
-    alt=&quot;Computer&quot;
-  /&gt;
-&lt;/p&gt;
-&lt;p&gt;
-  Most Markdown editors don't make you type this out, though. In Ghost you can
-  click on the image icon in the toolbar at the bottom of the editor, or you can
-  just click and drag an image from your desktop directly into the editor. Both
-  will upload the image for you and generate the appropriate Markdown.
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;em
-    &gt;&lt;strong&gt;Important Note:&lt;/strong&gt; Ghost does not currently have automatic
-    image resizing, so it's always a good idea to make sure your images aren't
-    gigantic files &lt;strong&gt;before&lt;/strong&gt; uploading them to Ghost.&lt;/em
+    &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; /&gt;
+    &lt;link
+      href=&quot;https://fonts.googleapis.com/css2?family=Montserrat:wght@300&amp;family=Roboto+Slab&amp;display=swap&quot;
+      rel=&quot;stylesheet&quot;
+    /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+  &lt;blockquote&gt; 1917, London's East End, two nuns are tasked with opening a new convent. Can
+  they escape their explosive fate?&lt;/blockquote&gt;&lt;/p&gt;
+  &lt;p&gt;This story was published by
+  &lt;a
+    href=&quot;https://literallystories2014.com/2018/02/13/the-view-from-above-by-mark-oconnor/&quot;
+    &gt;Literally Stories&lt;/a&gt; in Feb 2018.&lt;/p&gt;
+    
+    &lt;p&gt;On a technical note the second paragraph
+    uses &lt;a href=&quot;https://en.wikipedia.org/wiki/Parataxis&quot;&gt;&quot;parataxis&quot;&lt;/a&gt; as a
+    technique to create an air of anxiety around Mary - Do you think it worked?
+    Let me know. Hope you enjoy it&lt;/a
   &gt;
-&lt;/p&gt;
-&lt;h2 id=&quot;makinglists&quot;&gt;Making lists&lt;/h2&gt;
-&lt;p&gt;
-  Lists in HTML are a formatting nightmare, but in Markdown they become an
-  absolute breeze with just a couple of characters and a bit of smart
-  automation. For numbered lists, just write out the numbers. For bullet lists,
-  just use &lt;code&gt;*&lt;/code&gt; or &lt;code&gt;-&lt;/code&gt; or &lt;code&gt;+&lt;/code&gt;. Like this:
-&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Crack the eggs over a bowl&lt;/li&gt;
-  &lt;li&gt;Whisk them together&lt;/li&gt;
-  &lt;li&gt;Make an omellete&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;or&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Remember to buy milk&lt;/li&gt;
-  &lt;li&gt;Feed the cat&lt;/li&gt;
-  &lt;li&gt;Come up with idea for next story&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;addingquotes&quot;&gt;Adding quotes&lt;/h2&gt;
-&lt;p&gt;
-  When you want to pull out a particularly good except in the middle of a piece,
-  you can use &lt;code&gt;&amp;gt;&lt;/code&gt; at the beginning of a paragraph to turn it into
-  a Blockquote. You might've seen this formatting before in email clients.
-&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;
-    A well placed quote guides a reader through a story, helping them to
-    understand the most important points being made
-  &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;
-  All themes handles blockquotes slightly differently. Sometimes they'll look
-  better kept shorter, while other times you can quote fairly hefty amounts of
-  text and get away with it. Generally, the safest option is to use blockquotes
-  sparingly.
-&lt;/p&gt;
-&lt;h2 id=&quot;dividingthingsup&quot;&gt;Dividing things up&lt;/h2&gt;
-&lt;p&gt;
-  If you're writing a piece in parts and you just feel like you need to divide a
-  couple of sections distinctly from each other, a horizontal rule might be just
-  what you need. Dropping &lt;code&gt;---&lt;/code&gt; on a new line will create a sleak
-  divider, anywhere you want it.
-&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;
-  This should get you going with the vast majority of what you need to do in the
-  editor, but if you're still curious about more advanced tips then check out
-  the &lt;a href=&quot;/advanced-markdown/&quot;&gt;Advanced Markdown Guide&lt;/a&gt; - or if you'd
-  rather learn about how Ghost taxononomies work, we've got a overview of
-  &lt;a href=&quot;/using-tags/&quot;&gt;how to use Ghost tags&lt;/a&gt;.
-&lt;/p&gt;</content><author><name>ghost</name></author><category term="Getting started" /><summary type="html">Ghost uses a language called Markdown to format text. When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause. At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a ? icon, which contains more advanced shortcuts. For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used. Formatting text The most common shortcuts are of course, bold text, italic text, and hyperlinks. These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts. CMD/Ctrl + B for Bold CMD/Ctrl + I for Italic CMD/Ctrl + K for a Link CMD/Ctrl + H for a Heading (Press multiple times for h2/h3/h4/etc) With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story. Inserting images Images in Markdown look just the same as links, except they're prefixed with an exclamation mark, like this: ![Image description](/path/to/image.jpg) Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown. Important Note: Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files before uploading them to Ghost. Making lists Lists in HTML are a formatting nightmare, but in Markdown they become an absolute breeze with just a couple of characters and a bit of smart automation. For numbered lists, just write out the numbers. For bullet lists, just use * or - or +. Like this: Crack the eggs over a bowl Whisk them together Make an omellete or Remember to buy milk Feed the cat Come up with idea for next story Adding quotes When you want to pull out a particularly good except in the middle of a piece, you can use &amp;gt; at the beginning of a paragraph to turn it into a Blockquote. You might've seen this formatting before in email clients. A well placed quote guides a reader through a story, helping them to understand the most important points being made All themes handles blockquotes slightly differently. Sometimes they'll look better kept shorter, while other times you can quote fairly hefty amounts of text and get away with it. Generally, the safest option is to use blockquotes sparingly. Dividing things up If you're writing a piece in parts and you just feel like you need to divide a couple of sections distinctly from each other, a horizontal rule might be just what you need. Dropping --- on a new line will create a sleak divider, anywhere you want it. This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the Advanced Markdown Guide - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of how to use Ghost tags.</summary></entry><entry><title type="html">Advanced Markdown tips</title><link href="https://drmarkoconnor.github.io/advanced-markdown" rel="alternate" type="text/html" title="Advanced Markdown tips" /><published>2017-07-27T06:00:00+01:00</published><updated>2017-07-27T06:00:00+01:00</updated><id>https://drmarkoconnor.github.io/advanced-markdown</id><content type="html" xml:base="https://drmarkoconnor.github.io/advanced-markdown">&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
+    &lt;section&gt;
+      &lt;h3&gt;1917. London’s East End.&lt;/h3&gt;
+
+      &lt;pre
+        style=&quot;
+          white-space: pre-wrap;
+          background-color: rgb(226, 223, 223);
+          color: rgb(7, 6, 6);
+          font-size: 1.3em;
+          font-family: Roboto;
+          font-weight: 400;
+          width: 100%;
+          max-width: 800px;
+          line-height: 1.8em;
+          border: lightgrey 1px solid;
+          margin: 0 auto;
+          padding: 2em;
+        &quot;
+      &gt;
+
+&lt;em&gt;&lt;blockquote&gt;‘Tis strange how oft we look to the heavens,
+when it is we who grip the earthly tiller.’ Anon&lt;/blockquote&gt;&lt;/em&gt;
+
+
+&lt;newthought&gt;The grounds of St Prybourne’s churchyard&lt;/newthought&gt; were carpeted with an oppressive thickish mist. Circling the church, a gravel path wended its way between serried ranks of gravestones. The soft scrunching steps of Mary and Carmel, Sisters of the Annunciation, sent ahead to prepare the convent, sent diaphanous wisps of vapour spiraling into the frosty morning air. 
+      Mary, hunched over and swaddled inside a black gabardine cloak, gripped Carmel’s arm. For warmth, she told herself. Eternity no longer hung on the distant horizon for Mary, and she didn't want to waste the solidity of a real day. How old was she now anyway? Were her arms ever as strong as those she held? Where had her decades slipped to? So many graveyards, churches, and priests. So many prayers, births and deaths. She wanted to help Carmel. But how? She tried to remember. A squirrel shot across a branch. A small boy on a bike stopped to look from the gate. London was waking. Another day. So many days. So much the same. No escape. Her choice. No choice. But Carmel is young. The hounds always have a choice. Mary felt goosebumps along the spiny ridge of her forearm. Scared. Scared of different things. The early morning stillness weighed heavy on her. At these times Mary felt for Carmel; she was not without compassion though life had pushed her in that direction. Carmel replaced a strand of silvered hair that had escaped from Mary’s habit. An inadvertent gentle caress. Mary closed her eyes. Remembered.
+    ‘Shall we go on now?’ Carmel pulled at Mary’s coat. ‘Come on now, I’m awful keen to get off this path.’
+    They continued in silence. Crumbling headstones reposed at angles set by subtle pressures of time. Carved names, worn, illegible. Shadows of doleful martyrs, their candles long burnt. They paused over an empty grave, freshly dug, laced with wet green turfs. An odour of regret suffused the air above its space. They released each other, briefly, to make the sign of the cross and peered into the pit beneath. The dank earth of the grave was piled beyond in two small mounds. Between the mounds, and just beyond, was a newly laid path leading to a bosky arched north door. A raven’s squawk prompted Mary to resume her hold of Carmel. Cold sweat. Hurried steps.
+    ‘Did you ever think your life would be spent in graveyards?’ said Mary. She muttered a blessing as they reached the door. 
+    The Convent, a gift to the Church from an Irish American banker, had never received a consecration, the war having robbed East London of its priests and rituals. Gothic arches over long lintels, running north to south, met layered linear stone gables and eves to the west and east. The three stories of steel and granite construction had a secular brashness founded in its American roots. There was arrogance in its design.
+    ‘Have you ever seen anything quite like it, Mary?’ Carmel looked up at the huge arched doors. ‘I hope we’ll be happy here.’
+    Mary glanced back at the misty veiled grave and took a deliberate sniff of the air. Grief.
+    ‘Happy, Carmel?’ said Mary, now viewing her from a distance, taking all of her in. ‘You will find a woman has to choose her unhappiness most carefully. It’s a choice not to be squandered.’ Mary knew Carmel wasn’t listening. Why should she? Mary wondered if her back was ever as straight as Carmel’s, her chest as flat, hair so cropped, so cheerful, so opinionated. She thought Carmel’s grey veil and creased linen toque didn’t suit her plump face. What did it matter? A break in the mist and the empty grave came into focus once more. Mary wondered who would find a home there.
+    ‘So much steel, Mary. It’ll be here a while after we’ve gone, no matter what the Germans do.’ 
+    ‘You’ve a depressing low spin about you for a young girl.’ 
+    ‘I do not.’
+    Carmel was craning her neck to take in the full reach and extent of the building’s vaults and arches towering above her. ‘Look at it. It’s beautiful. There’s a glint on the copper there. Look.’
+    Mary pushed against the arched doors. She was keen to get inside. To warmth. Security. She knew Carmel was right. A building this strong, a marriage of the finest London granite and hardest American steel, would last for a hundred years, perhaps more. The doors were heavier than she allowed for, and seemed reluctant to open, as if someone or something was pushing back.
+    ‘I don’t think it wants to let you in, Carmel.’
+    The shadow of St Monica’s began to envelop the north entrance, as the sun rose to fight the maudlin clouds.
+    ‘I mean really look at it, Mary. The beams above this archway, “Rolls Royce,” the builder called it  - that’s the best there is.’
+    Carmel added her weight to the doors and, as the hinges squealed their submission, the pair crossed the threshold. 
+    ‘Rolls Royce?’ said Mary. The relief at being inside, the warmth and the secure clunk as the retreating doors met each other, had lightened her mood a little. 
+    ‘Yes, so it is. Rolls Royce for sure. You remember, Father McDermott, he was always going to play tennis with a fella that had one. A big hairy brute of a man, married the old spinster from Castlerea.’
+    Carmel took out a small cloth and used it to first wipe her thick-rimmed glasses and then to flick away small pieces of rubble from a low bench by the door. She hitched up her skirts and sat with a feigned sigh. Mary joined her on the seat.
+    ‘That’s as might be, but the builder said “rolled steel joist,” not “Roll’s Royce”.’
+    ‘Well there’s a thing,’ said Carmel pretending to wipe her ear with the cloth, ‘it’s a wonder these ears of mine don’t bring me more trouble.’
+    Mary smiled, placed a hand on Carmel’s knee and pushed herself up, turning to face her.
+    ‘Pretty much everything here will outlast me.’ She raised a hand to stroke Carmel’s face but straightened her glasses instead. ‘Is this how you want to spend your years? It’s not too late for you. There are jobs here for strong girls like you, real jobs. The world is changing. Don’t just watch it.’
+    Mary pointed towards the large lintel stretching either side of the north arch to the south gable. ‘It’s steel Carmel. It’s a piece of solid steel from America. It keeps the roof of the church safe above us’
+    ‘Now don’t forget your prayers, Mary. It’s the Lord that keeps us safe, in the end.’
+    Mary bent her knee towards the small southern altar, and crossed herself as she gathered the heavy black cloth of her habit. She motioned to Carmel to follow her, and headed towards what she hoped was her new kitchen.
+    ‘I dare say you’re right, but I’d sooner a bit of steel when facing the devil.’
+    Carmel sniggered through her hand as she kissed her silver cross.
+    ‘There may not be a place for you here. Have you ever thought of that?’
+    ‘Mary O’Donahue, why would you say such a thing?’
+    Mary gestured for Carmel to sit beside her on an oak refectory bench.
+    ‘I’ve seen so many things. Convents, congregations, families, love and death. Friends who never realized their cheery parting would be a final one. We walk in a desert, Carmel, a desert of loss, where even our footprints are replaced with a soft shifting sand. I took my holy orders over forty years ago. I’ve lost evenings in the nooks and crannies of so many buildings. They have character, a warmth, a way of talking to you. Find a nook that is right for you. I’ve spent my life watching, from a nook. I’d like to watch you live, Carmel. To live a life that’s right for young bones. Your nook is elsewhere. Maybe.’
+    Outside London was waking. A tram shuddered as it negotiated the tight corner of St Monica square. Two small boys chased a hoop past old barrow men setting up morning market stalls of fresh vegetables and scrawny meat. Three army officers, smart in their pressed brown tweed, gave mock salutes to an ancient looking stallholder and his wife. The Captain caught a tossed apple and bowed with a flourish of his cap to the pair. Iron shutters rattled on opening shop fronts, cycles clattered on stone cobbles, and distant sirens weaved through the sombre air. The morning’s newspapers, tossed by scruffy urchins were hastily examined for news of the war abroad whilst wary pedestrians checked the sky above. There was always an expectation of the dawn. For too long now it had broken simply as an upside down version of the dismal night before.
+    ‘We’ve a deal to get ready here, Mary, so we have.’ 
+    The nuns took a slow stock of the building. Dust and builders’ debris to clean up was ahead of them, and Mary suggested Carmel visit local schools and factories looking for women and girls to assist. At 9:30 am, Mary was set to meet George Smedley, first son of the original builders, Smedley and Sons, who, on account of losing the lower part of his right arm when setting the foundations, had escaped the war and now worked in an office. Mary was to sign the official release papers on behalf of the church.
+    ‘Can you imagine, Carmel, a women signing for such a thing now.’
+    ‘The Smedley fellow has all the fresh sheets and bedding, Mary,’ shouted Carmel, from the mezzanine level.
+    Mary consulted a small notebook in which she had started to allocate tasks between them. ‘I want you to go, Carmel.’
+    ‘Me, sign the papers?’
+    ‘Yes, and ask him to drop you back in his van, to carry the sheets in. They’ll be awful heavy now.’
+    ‘I’ll pray to God he’s a Christian man, so I will,’ said Carmel, who appeared at the northern doorway, ‘and if he is, then I’ll ask St Christopher for the loan of the van all day.’
+    ‘You’ve time to explore as well,’ said Mary who was using some discarded dust-sheets to wipe a chalkish debris from the refectory tables.
+    The kitchen was grimy and the sun’s early rays reflected motes of dancing dust in all directions. Mary caressed the cold stone surfaces and, as the effort of cleaning warmed her, she imagined her Sisters eating here over Easter, and praying at the southern altar. But there’s no priest, no Sisters here now, thought Mary. You’re alone. You’re free, Mary. New. Fresh start. Mary lit a fire in the iron grate that was slung below the large bread oven. A small rocking chair tempted her to sit for a while.
+    ‘Carmel, I’m going to explore this nook. I’ll stay here a while and wait for you. Enjoy yourself, go on now.’ Mary felt the words bounce from the stone walls, and each echo seemed to plead the case… go on now…go on… now. Mary eased into a gentle rocking, and joined the silence of the room. It was the silence and the distance, nursed for decades that had churned and emptied out her soul. Cored out. The hollowness was so complete that even kind clichés and well meant platitudes created a weighty ache. It hurt. Go now, go. Now.
+    ‘If you’re sure now, Mary, I will so to. I’ll bring us back some nice biscuits for our tea.’
+    The north door opened with ease and Carmel slipped out into the freshening London air. The door shut with a committed clunk behind her.
+    From where Mary sat, she could see Carmel through the slatted kitchen window, and watched her walk back, past the grave, through St Monica’s courtyard and slip into the square. Part of the London life-stream. She was gone. Mary imagined Carmel enjoying the hubbub of the life that was waking around her; meeting stout, fresh-faced girls, cheeky boys acting up as the men that they missed. Free.
+    The early morning mist had evaporated and the sky was now a thin cloudless blue. Mary looked up from her nook and prayed Carmel would find the strength not to come back. From the heavens above, at 15,000 feet precisely, the scurrying detail of St Pryborne’s Square could be clearly viewed too. A German bomb hatch opened and released its load, which fell with a quiet determined resolve.
+  
+
+
+
+        &lt;/pre&gt;
+    &lt;/section&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="fiction" /><summary type="html">A fateful short story about regret in war torn London</summary></entry><entry><title type="html">first day at school - a villanelle</title><link href="https://drmarkoconnor.github.io/2020/01/03/school-villanelle.html" rel="alternate" type="text/html" title="first day at school - a villanelle" /><published>2020-01-03T20:10:46+00:00</published><updated>2020-01-03T20:10:46+00:00</updated><id>https://drmarkoconnor.github.io/2020/01/03/school-villanelle</id><content type="html" xml:base="https://drmarkoconnor.github.io/2020/01/03/school-villanelle.html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;A poem from mark: &lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;pre
+      style=&quot;
+        white-space: pre-wrap;
+        background-color: rgb(226, 223, 223);
+        color: rgb(7, 6, 6);
+        font-size: 1.3em;
+        font-family: Roboto;
+        font-weight: 400;
+        width: 100%;
+        max-width: 800px;
+        line-height: 1.8em;
+        border: lightgrey 1px solid;
+        margin: 0 auto;
+        padding: 2em;
+      &quot;
+    &gt;
+&lt;p&gt;&lt;h2&gt;first day at school - a villanelle&lt;/h2&gt;&lt;/p&gt;
+
+Shared days entwined together bittersweet,
+long labour, cord clipped, independent first cry.
+Separate tracks play love’s synchronised beat.
+&lt;br&gt;
+Smooth soft skin, swaddled safely, suckling teat,
+slow teasing tempo to sung lullaby.
+Shared days entwined together bittersweet.
+&lt;br&gt;
+Children grow, sense perfume of first defeat.
+See mothers prepare pensive sad goodbyes.
+Separate tracks play love’s synchronised beat.
+&lt;br&gt;
+Gravel path grips soles of reluctant feet.
+School’s silhouette breaks grey September sky,
+shared days entwined together bittersweet.
+&lt;br&gt;
+Red bricked door, one path, smart uniform pleats
+creased in play, new friends, youthful alibis,
+separate tracks play love’s synchronised beat.
+&lt;br&gt;
+Bell tolls school’s end, I look to where we’ll meet.
+Two pathways divergent for you and I,
+shared days entwined together bittersweet.
+Separate tracks play love’s synchronised beat&lt;/pre&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="poem" /><category term="poetry" /><summary type="html">A poem from mark: first day at school - a villanelle</summary></entry><entry><title type="html">Stone Cold Memories</title><link href="https://drmarkoconnor.github.io/2020/01/03/stone-cold-memories.html" rel="alternate" type="text/html" title="Stone Cold Memories" /><published>2020-01-03T20:10:46+00:00</published><updated>2020-01-03T20:10:46+00:00</updated><id>https://drmarkoconnor.github.io/2020/01/03/stone-cold-memories</id><content type="html" xml:base="https://drmarkoconnor.github.io/2020/01/03/stone-cold-memories.html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;A short story about male grief&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+      This story was nominated for the
+      &lt;a href=&quot;http://www.pushcartprize.com&quot;&gt; Pushcart Prize&lt;/a&gt; in 2019
+    &lt;/p&gt;
+    &lt;pre
+      style=&quot;
+        white-space: pre-wrap;
+        background-color: rgb(226, 223, 223);
+        color: rgb(7, 6, 6);
+        font-size: 1.3em;
+        font-family: Roboto;
+        font-weight: 400;
+        width: 100%;
+        max-width: 800px;
+        line-height: 1.8em;
+        border: lightgrey 1px solid;
+        margin: 0 auto;
+        padding: 2em;
+      &quot;
+    &gt;
+
+Every year on the twelfth of November, Eddie Portnoy left his house at two-thirty, visited the local chemist and bought a new brand of deodorant, and then two copies of the Times newspaper from the adjacent newsagent. He placed one copy into a thin waterproof plastic folder and put it in his shoulder bag and the other he carried, as any other person would, tucked under his arm. On the return journey, no one ever commented on why he was soaking wet. His neighbours sometimes remarked on his trip, commenting how comforting it must be for him to tend such a special place. ‘A real rock,’ they would say, especially in the early years. He was old now, and not a little scrawny, so the trips took longer each year which meant he returned in increasing levels of darkness. Eddie spotted the twitching curtains from his next-door neighbours and hurried to find his keys.
+	‘Eddie, you’re shivering, can I make you some tea?’
+	‘That’s kind, but I’ve got to prepare the paper,’ he waved the plastic folder up and gave it a little shake as if proof were needed, ‘and dry my clothes. Thank you.’
+	Eddie opened the front door taking care to shut it quickly. He switched on the hall light and bent to kiss the yellowed black and white photograph of his wife, Florence. ‘Cup of tea is the ticket though, she’s right about that, Florence, my love.’
+	Eddie took two mugs down from the kitchen cupboard and dropped a tea bag in each. He braced himself on the marble counter and waited for the kettle to whistle.
+	‘You daft bugger,’ said Eddie, replacing one of the mugs back into the cupboard. He removed all his clothes and slipped into a chunky towelling dressing gown he had placed in the kitchen earlier. 
+	‘Florence. Marcus.’ Eddie repeated the names a few times as he took the tea over to his recliner. Eddie liked to hear the sound of the names out loud. It was comforting. Solid. Real. 
+	‘The rocks are beautiful, Florence. Mostly white still too. They’ll last long after I’m gone.’ Eddie listened to the silent response and fell into a deep sleep.
+***
+Even before it happened, when his life had purpose and colour, Eddie Portnoy had always hated November. Dank. Lifeless. Summer’s memories, luke-warm and sepia. November held no promise. Distorted, rotting. Eleven days gone, Eddie looked up at the sky, dark and burdened with gravid cloud. The thick air lay on his chest like a dull weight. Florence shivered. Eddie nodded his head towards her, curving the corner of his mouth into a wry smile. A long marriage had created a Morse code of understanding between them. Florence rubbed the centre of her chest, and Eddie wondered if she felt the heaviness there too. She returned a smile long enough to reassure Eddie who was relieved not to have to talk. He set about making a peppermint tea.
+	Sleet rain hit the French doors of their suburban conservatory with such force that they found it hard to hear each other. They called it their coastal curse. They could not see the ocean from their garden, but at all times there was a salt-spray scent of its proximity, a lament tasted in the air, like a half-remembered melody. Eddie and Florence glided effortlessly on thirty-year-old tracks, comforted by familiar grooves. Florence pressed her face into a neatly folded, Fair Isle, short sleeve jumper and sniffed. Hard.
+	‘You all right, Love,’ said Eddie as he placed the tea down next to her.
+	‘I think it’s losing its smell,’ said Florence, briefly coming up for air.
+	Eddie swiped a yellow highlighter pen across the date of a crisp Times Newspaper laid out on the kitchen table.
+	‘Go easy,’ said Eddie, as he circled around a number of article headings in the news and sports sections, ‘of course the smell will disappear eventually if you carry on sniffing it hard like that, Love.’
+	‘It’s Teen Spirit,’ said Florence.
+	‘Of course, I know that, Love. Nothing lasts forever though,’ said Eddie, immediately regretting it. He folded the newspaper into a half, and then half again, placing it longways into his coat pocket. Eddie retrieved a second pristine copy of the same newspaper from the sideboard then placed it on top of others, older, folded identically, into a box marked,
+“Newspapers:12th November 1979 to - “ 
+‘Don’t see that brand of deodorant on the shelves now. Too musky I expect for young men today,’ said Florence.
+There was no year after the dash and Eddie wondered whether it would be him or Florence that would add that. He hoped it would be him, not because he was better at remembering, although that was undoubtedly true, but because it would mean she’d go before him. Others blamed Florence for it, at the time, but not Eddie. He would say seat-belts were different then; take it or leave it. There were choices. Besides his jumpers smelled of Old Spice and he suspected Florence had never liked it. He looked at Florence.
+‘What smell would you like my jumpers to have, Florence?’
+It wasn’t the sort of question that was easy to ask. There are some strands of enquiry too delicate for even the longest marriage to tease out. They didn’t talk to others now, so what did their opinion matter anyway?
+‘What time are we going?’ Florence brought the jumper over to Eddie and held it up to his face.
+‘No thanks, Love.’
+‘Do you think that eBay would sell deodorant?’ said Florence.
+‘Same as usual, Love,’ said Eddie taking the jumper, placing it into a clear plastic box, ‘like we always do, two-thirty. Taxi’s booked.’
+‘Girl at the chemist said eBay sells everything, even old stuff like Teen Spirit.’ Florence took the newspaper box from Eddie and placed the jumper-box on top of it, slotting both into a perfectly matched space in the dresser cupboard. A cuckoo-clock struck two gongs. Two tiny mannikins, mounted on ageing springs, moved around each other in deep fixed ruts. 
+‘Suppose we could ask them next door when we get back,’ said Eddie, helping Florence on with her Macintosh, ‘they’ll know where eBay is.’
+A black cab pulled up, and Florence and Eddie took advantage of a break in the rain to dash to its rear doors. As the cuckoo-clock chimed the half hour to a silent kitchen, Eddie and Florence arrived at the graveside.
+Marcus Portnoy, loving son, July 25th 1962 - November 12th 1979.
+
+Florence knelt and began to clear the fallen oak leaves covering the grave. Eddie noticed how white and ghostlike her complexion appeared. Lilac agapanthus and cerulean alliums formed a serried rank of mourners. Florence removed their faded heads and trimmed the weeping ivy tumbling forward from terra-cotta urns. The earth, sodden from the morning’s storm, was stubbornly unperturbed by the addition of Florence’s tears. Eddie waited as her quiet sobs faded, and her gentle rocking stopped. He helped her to her feet and felt the dead weight of her.
+‘Villa have started the season well, Son.’ Eddie unfolded two portable garden stools and placed them either side of the grave. He sat and started with the sports on the back page before thumbing to the highlighted circled stories in the inside news sections. ‘They reckon this global warming is a real thing, not that you’d have noticed today.’ Eddie showed the newspaper to Florence, pointing at the story.’ You want to read this, Florence, I was always a bit sceptical, if I’m honest.’
+But Florence was not sitting or standing. She had knelt again and then had slumped, briefly on all fours, like a dog checking a new territory. Then she was dead.
+***
+Eddie insisted on returning home despite the late hour, and the nurses saying he could stay on the ward. Everyone had been very kind. Especially the consultant. Eddie wanted to ask him how old he was. He tried to work out how old Marcus would be. But couldn’t.
+‘There was no suffering, Mr Portnoy.’
+Eddie wanted to laugh at the suggestion. But didn’t.  Some truths cannot be explained. Suffering. There is always a kernel of that, deep within the muffled layers of domestic routine. 
+‘Thank you, Doctor, that will be a comfort.’ Eddie fumbled the buttons on his Macintosh. ‘I suppose I should go.’ He wiped a small tear and picked up a large canvas bag of Florence’s clothes and possessions.
+‘Is there someone we can call? Family? A friend, or a neighbour?’
+Eddie felt the nurse’s arm around his shoulder and wondered if after this night was done, he would ever touch anyone again. Alone in thought, word and deed, alone in old age without Florence, without Marcus. It was a terror he decided he would avoid. First, he thought, eBay.
+***
+Eddie’s neighbours were perplexed at his request but, given the circumstances, relieved at having a practical task with which to help. It meant they could comfortably fill the awkward gaps that characterise conversations of the recently bereaved. They invited him for coffee and regaled him with news of their internet search and eventual delivery. One hundred assorted bleached pebbles, weighing twenty-five kilograms, from Chesil beach. Flint and Quartz dot com. Eddie asked how much he owed, and what dot com was. 
+‘We were so happy to help, Mr Portnoy. Are you planning a memorial rockery, or perhaps an artwork?’
+The truth was simpler. Eddie was saying goodbye.
+***
+Eddie stood at the shoreline facing a gentle sea and estimated he had five minutes of life left. Rays from a low early morning sun danced off the swell, hitting his vision from all angles. He wiped a small tear and stepped forward into the gently lapping tide. He was expecting the usual bracing chill from the cold, unforgiving water but realised his shoes and clothes would protect him for a short while. He tried to smile at the irony as he waded deeper.
+	A stone from his jacket pocket fell into the water to his left. He took the opportunity to retrieve it in the shallow edge and gathered a few more. He crammed them into what little spaces were left in his trouser pockets and continued forward. Onlooking children might think him like a clumsy deep-sea diver, wading with stiff, heavy legs at the bottom of a deep sea. Except there were no onlookers. He had no diving suit, or helmet just pockets full of bleached stones. He moved forward. The seabed fell away with a sharp slope, and as the waters reached his shoulders, he knew the stones would do their job. He felt grounded with no sense of floating. That would come later he guessed. He didn't want to think about that and turned for the last time to look at the shoreline he had just left. To look at everything he was leaving. To remember Florence and Marcus, one last time.
+	Now facing away from the sun, and feeling its warmth compete with the cool licks of the wave-tops on his neck, he could see the shoreline in exquisite detail. His eye was drawn by the dark staining each wave produced on the sloping sandbank. He watched each wave noticing the subtle differences each painted onto its sandy canvas. Relentless, futile, but comforting; in their attempts, their very persistence. We will remember. Each wave, collapsed, receded now, forgotten, had built on those before them, preparing a pristine canvas for those to come. The beaches. We will remember. Small, individually worthless, they persist, prevail, always contributing something in their fragile, fleeting present.
+***
+Eddie looked up at the mountains encircling the bay and wondered if they knew their fate, how one day they would become the stones in his pockets, and then the sand grains, crushed and coloured by these stubborn waves. He reached into his pocket and placed his fingers around one of the larger stones, stroking its smooth surface. Eddie let it fall to the seabed and, as others followed, he rose, floated, and permitted himself to be washed back to the shore. He had a few tides left, to try again, to try and change the course of his life. He stood, the task futile but, as a small rippled wave washed over his feet, he knew; he must try again, he must prevail, he must remember.
+***
+Eddie would sometimes sleep right through the night of the twelfth. Vivid dreams mining memories, presenting blurred slideshows of half-remembered days. Occasionally, Eddie remembered more, and he would try and patch together the strands presented to him. His life, Florence and Marcus, grey weaves of time and events strung together. He would sip his tea and wait for another strand, a string. Strings. Spun lines. Woven cloth. A tapestry of memories, warm woven blankets of remembrance. Most days, Eddie tried to remain in the present and would chat with neighbours, watch TV, look forward to the cleaner’s weekly visit and chat to the young lad from the voluntary charity that tidied his garden on a Friday. But on November days he looked at black and white photographs, listened to names dissolve in the air, sleep and weave his way back. Back to the cold stones, back to Florence and Marcus, back to what he knew to be true. Life just is, it sweeps over and around you, through you, past you. Small waves of experience that have been and will be. All you can do is hope that the first swaddling blanket is waterproof and that you hold on to its tattering edges for as long as you can.
+	Every year, on the twelfth of November, Eddie Portnoy buys two copies of the Times newspaper. He visits the graves of Marcus and Florence, walks the local beach absorbing the salt-spray of its waves, and wonders whether this year he will return home, dripping wet, just one more time.
+&lt;/pre
+    &gt;
+  &lt;/body&gt;
+&lt;/html&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="fiction" /><summary type="html">A short story about male grief This story was nominated for the Pushcart Prize in 2019</summary></entry><entry><title type="html">The speaking of Lorna</title><link href="https://drmarkoconnor.github.io/2019/10/23/speaking-of-l.html" rel="alternate" type="text/html" title="The speaking of Lorna" /><published>2019-10-23T19:29:23+01:00</published><updated>2019-10-23T19:29:23+01:00</updated><id>https://drmarkoconnor.github.io/2019/10/23/speaking-of-l</id><content type="html" xml:base="https://drmarkoconnor.github.io/2019/10/23/speaking-of-l.html">&lt;p&gt;&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;The speaking of Lorna&lt;/title&gt;
+    &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; /&gt;
+    &lt;link
+      href=&quot;https://fonts.googleapis.com/css2?family=Montserrat:wght@300&amp;amp;family=Roboto+Slab&amp;amp;display=swap&quot;
+      rel=&quot;stylesheet&quot;
+    /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+  &lt;blockquote&gt; A short story of courage over evil&lt;/blockquote&gt;&lt;/p&gt;
+     &lt;section&gt;
+      &lt;h2&gt;The speaking of Lorna&lt;/h2&gt;&lt;/p&gt;
+
+&lt;pre style=&quot;white-space: pre-wrap;
+        background-color: rgb(226, 223, 223);
+        color: rgb(7, 6, 6);
+        font-size: 1.3em;
+        font-family: Roboto;
+        font-weight: 400;
+        width: 100%;
+        max-width: 800px;
+        line-height: 1.8em;
+        border: lightgrey 1px solid;
+        margin: 0 auto;
+        padding: 2em;&quot;&gt;
+
+Lorna Sullivan hadn’t spoken for ten years. Her younger sister, Una, thought she was born like it. But that wasn’t true. There had been an older sister. Dead now. Died when Lorna was seven, on the night Lorna stopped speaking.
+    Lorna’s Dad, Declan, bellowed from the foot of the stairs.
+    ‘Una…Una.’ A small statue of Christ wobbled on the hallway table.
+    ‘Lorna is your sister up there or no? …Come down now, Father McClatchey is here for a visit.’ 
+    Una had been playing in Lorna’s room all morning, laying out her Chinese dolls, dressing them up and trying on a variety of Lorna’s clothes herself too. Lorna threw her dressing gown at Una, and motioned Una to dress. She helped Una with the belt, and tied a double knot . Secure. Good. She went down the stairs behind Una, with both hands on Una’s shoulders, and directed her past Father McClatchey, to the far side of kitchen table. Their mother, Aileen, set down a plate of thick bacon rashers, mushrooms and black pudding, next to a large pot of Assam tea. 
+    ‘Lorna, where’s your manners now?’ said Aileen. ‘Will you take the Father’s coat now.’ 
+    Lorna, avoiding the priest’s gaze, took his frock coat and left the kitchen to hang it on the bannister. As she folded the black fabric over her arm, her stomach tightened. A pervasive smell of must hit her nostrils and she recoiled at the thick flakes of dandruff on its blackened collar. Returning to the kitchen, she saw Father McClatchey had moved to sit next to Una, his arm around her shoulder. 
+    ‘She’s a good girl Declan, so she is,’ said the Father as he lifted Una onto his lap, ‘knows all her prayers for her big day.’
+    Una smiled and recited the Lord’s Prayer and the Hail Mary on request. The Father kissed her on the top of her head with every correct recitation. Aileen and Declan joined in the praise. Lorna moved to the mantelpiece and picked up a photograph of her dead sister and gently placed a kiss onto its surface.
+    ‘Be careful with that now, Lorna,’ said Declan as he replaced the frame onto the mantelpiece. ‘There we go now,’ patting Lorna on the head before continuing, ‘she’s living in grace without end, and in our hearts, so she is.’
+    ‘Beautiful Declan,’ said Father McClatchey, placing a kiss onto Una’s cheek, ‘dry your tears now, Aileen.’
+    Lorna felt a warmth rise into her chest and noticed her rapid breathing. Her hands had a fine tremble and she braced herself against the kitchen table and took a sip of tea.
+    ’D’ya see Aileen?’ said the Father, biting into a slice of malted toast almost simultaneously as he slurped his tea, ‘Una will be grand on the day so she will.’ 
+    Aileen topped up Father McClatchey’s mug. 
+    ‘She has some trouble with the Glory be Father,’ said Aileen, dropping more bacon onto his plate, ‘the order of the words like.’
+    Father McClatchey tried to pick out some bacon fat caught between his top teeth, creating in the process a snarling appearance.
+    ’Tis easy enough with some practice now, Aileen, and I’ll take her into the Transept after her reading on Sunday and we’ll get it right so we will.’
+    Lorna dropped her mug of tea, which broke into fragments on the cold stone floor. 
+    ‘Well there’s no putting that together when its that broke,’ said Declan.
+    Una jumped down from the Father’s lap and moved over to Lorna to see the damage.
+    Father McClatchey left the kitchen and returned with his coat, whilst Aileen helped Lorna clean up. 
+    ‘I’ll see you for a private lesson on Sunday, Una, and just remember the order of the words is very logical now so it is,’ said the Father as he doffed his cap to Aileen and Declan , ‘beginning… now… and ever shall be.’ 
+    Lorna thought about the Glory Be as she returned to her bedroom. Una took off the heavy dressing gown and Lorna looked at her naked sister reciting the Glory be into the mirror.  ‘Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be, world without end. Amen.’
+    Lorna smiled at Una.
+    ‘I did it Lorna,’ said Una, as she spun round and jumped into Lorna’s lap.
+    Lorna hugged her innocence and stroked her unsullied flesh. World without end thought Lorna, as she pulled the soft duvet around Una’s shoulders. She knew she had to stop Una having the lesson. She knew this had to end on Sunday. Pressing herself closer to Una she placed her lips softly onto Una’s ear and whispered, ‘Can you keep a secret?’
+
+Lorna stood and released her mother’s clammy hand. Gentle applause and soft murmurs of support from the congregation stirred the air as she took her first tentative steps towards the pulpit. The clapping grew and echoed around the vaults of the 12th century church of Ballytabrae, County Cork. Una could never keep secrets, and Lorna wondered how quiet it would be after she had finished, how shocked and disgusted the smiling faces might be then. Perhaps. Lorna passed an old man sitting on the edge of the last pew who reached out and stroked her arm. She stopped and looked down at him and flinched her arm away, regretting it immediately. She let a small smile develop in compensation.
+    ‘You are a beautiful girl, Lorna Sullivan, like your mother so you are, and don’t you forget it now. God bless you me darling,’ said the old man.
+    An occasional baby’s cry added to the tension, and frosty stares from the childless beamed to guilty looking parents as they tried to keep order over their broods. Lorna’s parents sat in the back row and tightened their grip of each other’s hands, as they peered through a sea of heads in front of them to watch their daughter ascend to the pulpit. They hadn’t believed Una, but Lorna had heard them praying every night before bed for it to be true.
+    Lorna reached the pulpit and stumbled on its first stone step, dropping her notes over the cold granite floor. Silence. Her trembling hands scooped the scrawled notes into an uneven bundle. She rearranged them at the lectern in full view of the congregation. Lorna’s reddened face attempted a smile as she glanced around. She pushed her tongue over her top teeth and around her dry mouth searching for moisture. Lorna thought the bulges in her cheeks, as her tongue continued its exploration, must have looked comical to the giggling front row children.
+    ‘Be quiet now,’ said Father McClatchey, glaring at them.
+    ‘Father McClatchey, suffer unto me the little children?’ said Lorna.
+‘Jaysus, Mary mother of god,’ said the Priest, who dropped to his knees in front of the stone altar, raising his arms towards the effigy of Christ hanging above Lorna's head. 
+    The arched black door to the East transept blew open sending in a cold blast of winter air. The door led into the priest's changing area and Lorna could see directly into the room. There were cassocks hanging from dark oak beams and chains draped like a hangman's noose, ready for the censer, cooking its sweet smoking incense. A storm brewing outside sounded a distant thunder crack.  The children stopped their laughter. One small girl started crying and snuggled close to her mother. Aileen collapsed across Declan’s lap.
+    ‘Jaysus, Jaysus, she’s speaking, Christ she’s speaking,’ said Declan.
+    Lorna looked at her father across the sea of faces mouthing Hail Marys, and wished she could wipe his tears away. She longed to hold and kiss her mother. Too late. She wasn't a child anymore. She knew her first words would hurt. She knew there were more tears to come.
+    Father McClatchey rose and turned to the congregation.
+    ‘Praise the lord, our prayers have been answered,’ he said. Ashen faced, bowed head,  he moved over to Lorna. Behind her, close in tight behind her. He placed his arm on her right shoulder and slipped his other hand down her low back, unseen, and caressed her left buttock. He leaned in closer and whispered, ‘God be with you child. Be a good girl now, and think of your Mammy and Pappy.’
+    Unseen by the crowd, Lorna reached behind and dug her nails into the back of his hand.
+    Father McClatchey cradled his hand one in the other and in feigned prayer stepped back. He looked at the congregation and then to the notes Lorna had placed onto the lectern. There were pictures of crosses, faces, unhappy looking faces, drawn all over the front page of her diary. The diary she started the night her sister had died. The night she had been cared for, by Father McClatchey, as her parents grieved at the hospital.
+    Someone fastened the East door, but new air had cooled the room and the atmosphere changed. Lorna clutched her notes and raised them high above her head.
+    ‘I am Lorna Sullivan, I am seventeen, and I have something important to tell yous all.’
+    ‘Lord, we thank you for bringing our daughter back to us. Let us rise and sing hymn 346  - Into the hands of our redeemer,’ said Father McClatchey.
+    Lorna saw her Daddy’s hand in the air, as if trying to signal Father McClatchey. She turned to the organist and wagged her finger. ‘Father McClatchey, are you ashamed to look my daddy in the eyes now?’ she said, keeping her voice low.
+    ‘Yes Declan, what is it?’ said Father McClatchey.
+    ‘Please, Father, she hasn't spoken for ten years, it's a miracle, let her speak, it must be god's will.’
+    ‘To be sure Declan, but it’s an awful ordeal for her I'll wager. I’ll take her for a private talk and prayer - it'll be for the best now.’ Father McClatchey beckoned Lorna into the East transept.
+    Lorna noticed dark blue veins bulge in his neck. She smelt the sweat dripping from his brow.
+    He moved close to her once more. He could taste the red communion Cabernet on his breath as it wafted across her face. She knew these sensations well. She remembered. The hand that slipped between her legs, and stole her voice.
+    ‘Let her speak now Father, please,’ said Declan who had joined Lorna at the pulpit.
+    Aileen sat slumped in the pew, her shoulders rocking with the quiet effort of crying.
+    Father McClatchey walked away towards the East door and sat on the edge of the altar steps. 
+    'Father McClatchey… over there … he …’ Lorna’s lips stuck together. She gripped the lectern to maintain her balance.
+    Father McClatchey stood, and Lorna saw him tremble at the sound of his name on her lips. 
+    ‘Lorna please be careful with your words now, please,’ said Father McClatchey.
+    ‘I’m sorry Father, they have a right to know.’
+    ‘Jaysus, Holy Mary Mother of God, pray for me a sinner now and at the hour of my death.' Father McClatchey continued to mutter the incantation under his breath repeatedly and withdrew through the East transept door.
+    ‘What's going on here Lorna,’ said Declan, joining Lorna at the lectern, ‘what is it you have to tell us?’
+    ‘Sorry, Daddy.’ Lorna gripped the sides of the lectern and her knuckles whitened as she summoned up the courage for the final hurdle. ‘I can't live this lie. Daddy, I'm sorry.’
+    Lorna looked over to the East door. The latch, loosened by a gust from the storm outside caused the door to swing a little. Lorna heard a creaking noise from within and from her position at the lectern snatched a glimpse within as the door drifted open further. Father McClatchey standing on a bench appeared to Lorna to be removing his cassock over his head. She imagined the thick censer’s smoke billowing around him rising from Hell itself. The door swung shut but Lorna felt sure that he would hear her final words. A thunder crack broke over the steeple. 
+    ‘I , I …’ Lorna stuttered and her tears fell onto her notes, onto a felt tip scrawl of a childlike cross. She looked up at the effigy above her and rubbed the tears into an inky smudge. She screwed up the page and threw it at the Christ. ‘I don't believe in him, any of it, any of it.’ She slumped into Declan's chest and gulped the air to feed her sobbing. ‘I can’t, I just can’t.’
+    'Jaysus, Lorna, you don't believe in God? Is that what’s got your tongue? Do ya think me and your mammy care? Come here ya daft ha'porth.’
+    The old man at the end of the last pew approached and Lorna remembered how she had flinched at his touch earlier.
+    ‘Welcome back, God bless you,’ he said, placing a kiss onto her arm. Unflinching, Lorna wrapped herself around her daddy’s chest and decided she would stay there forever.
+    Lorna, Una, and her parents waited on the altar to receive many more well wishes from the congregation as folk filed out into the crisp morning air. The storm had long blown over.
+    ‘I’ve ruined the Mass,’ said Lorna looking up at Declan.
+    Declan cradled Lorna’s head and landed dozens of kisses on it.
+    ’Not at all poppet, Father will forgive you for sure.’ Declan guided all his girls towards the North door, ‘Jaysus, I’m looking forward to a good old chat now so I am.’
+    Forgive me? thought Lorna. She looked across to the East transept door, now fully open, to reveal Father McClatchey, swinging, at peace, the censer’s smoke billowing beneath his dangling feet. Lorna looked up at her Daddy. She would say nothing. She was good at that.&lt;/pre&gt;
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="fiction" /><summary type="html">The speaking of Lorna A short story of courage over evil The speaking of Lorna</summary></entry><entry><title type="html">Advanced Markdown tips</title><link href="https://drmarkoconnor.github.io/2017/07/27/advanced-markdown.html" rel="alternate" type="text/html" title="Advanced Markdown tips" /><published>2017-07-27T06:00:00+01:00</published><updated>2017-07-27T06:00:00+01:00</updated><id>https://drmarkoconnor.github.io/2017/07/27/advanced-markdown</id><content type="html" xml:base="https://drmarkoconnor.github.io/2017/07/27/advanced-markdown.html">&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
 &lt;p&gt;
   If you've gotten pretty comfortable with
   &lt;a href=&quot;/the-editor/&quot;&gt;all the basics&lt;/a&gt; of writing in Ghost, then you may
@@ -396,435 +580,41 @@ Execute &lt;code&gt;git reflog&lt;/code&gt; . This shows the local history of HE
       &lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/section&gt;</content><author><name>ghost</name></author><category term="Getting started" /><summary type="html">There are lots of powerful things you can do with the Ghost editor If you've gotten pretty comfortable with all the basics of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown! As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using. Special formatting As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example: strike through highlight *escaped characters* Writing code blocks There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, like this. Larger snippets of code can be displayed across multiple lines using triple back ticks: .my-link { text-decoration: underline; } If you want to get really fancy, you can even add syntax highlighting using Prism.js. Full bleed images One neat trick which you can use in Markdown to distinguish between different types of images is to add a #hash value to the end of the source URL, and then target images containing the hash with special styling. For example: which is styled with... img[src$=&amp;quot;#full&amp;quot;] { max-width: 100vw; } This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles. Reference lists The quick brown fox, jumped over the lazy dog. Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference. Creating footnotes The quick brown fox[1] jumped over the lazy dog[2]. Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post. Full HTML Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example: Foxes are red ↩︎ Dogs are usually not red ↩︎</summary></entry><entry><title type="html">Styling</title><link href="https://drmarkoconnor.github.io/style-tbx-mar" rel="alternate" type="text/html" title="Styling" /><published>1999-01-01T20:18:29+00:00</published><updated>1999-01-01T20:18:29+00:00</updated><id>https://drmarkoconnor.github.io/style-tbx-mar</id><content type="html" xml:base="https://drmarkoconnor.github.io/style-tbx-mar">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post&lt;/p&gt;
+&lt;/section&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="tech" /><summary type="html">There are lots of powerful things you can do with the Ghost editor If you've gotten pretty comfortable with all the basics of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown! As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using. Special formatting As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example: strike through highlight *escaped characters* Writing code blocks There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, like this. Larger snippets of code can be displayed across multiple lines using triple back ticks: .my-link { text-decoration: underline; } If you want to get really fancy, you can even add syntax highlighting using Prism.js. Full bleed images One neat trick which you can use in Markdown to distinguish between different types of images is to add a #hash value to the end of the source URL, and then target images containing the hash with special styling. For example: which is styled with... img[src$=&amp;quot;#full&amp;quot;] { max-width: 100vw; } This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles. Reference lists The quick brown fox, jumped over the lazy dog. Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference. Creating footnotes The quick brown fox[1] jumped over the lazy dog[2]. Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post. Full HTML Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example: Foxes are red ↩︎ Dogs are usually not red ↩︎</summary></entry><entry><title type="html">keepsake</title><link href="https://drmarkoconnor.github.io/1962/02/07/keepsake.html" rel="alternate" type="text/html" title="keepsake" /><published>1962-02-07T16:40:50+00:00</published><updated>1962-02-07T16:40:50+00:00</updated><id>https://drmarkoconnor.github.io/1962/02/07/keepsake</id><content type="html" xml:base="https://drmarkoconnor.github.io/1962/02/07/keepsake.html">&lt;p&gt;&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;A poem from mark: &lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+&lt;blockquote&gt; A decades old photograph - What is it we remember when all details are forgot?&lt;/blockquote&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;heading1&quot;&gt;Heading 1&lt;/h1&gt;
+&lt;p&gt;&lt;h2 &gt;A Photo of Mum, found in a box marked 'to keep'&lt;/h2&gt;&lt;/p&gt;
 
-&lt;h1&gt;heading 1 with markup&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading2&quot;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h2&gt;heading 2 with markup&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading3&quot;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h3&gt;heading 3 with markup&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading4&quot;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h4&gt;heading 4 with markup&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading5&quot;&gt;Heading 5&lt;/h5&gt;
-
-&lt;h5&gt;heading 5 with markup&lt;/h5&gt;
-
-&lt;h6 id=&quot;heading6&quot;&gt;Heading 6&lt;/h6&gt;
-
-&lt;h6&gt;heading 6 with markup&lt;/h6&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a title=&quot;test link&quot; href=&quot;#&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;cite&gt;The New York Times&lt;/cite&gt; (That’s a citation). &lt;span style=&quot;text-decoration:underline;&quot;&gt;Underline.&lt;/span&gt; Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-
-&lt;p&gt;&lt;abbr title=&quot;Hyper Text Markup Language&quot;&gt;HTML&lt;/abbr&gt; and &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. To copy a file type &lt;code&gt;COPY &lt;var&gt;filename&lt;/var&gt;&lt;/code&gt;. &lt;del&gt;Dinner’s at 5:00.&lt;/del&gt; &lt;ins&gt;Let’s make that 7.&lt;/ins&gt; This &lt;span style=&quot;text-decoration:line-through;&quot;&gt;text&lt;/span&gt; has been struck.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
-
-&lt;h3 id=&quot;bigimage&quot;&gt;Big Image&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://demo.ghost.io/content/images/2014/09/testimg1.jpeg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
-
-&lt;h3 id=&quot;smallimage&quot;&gt;Small Image&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://demo.ghost.io/content/images/2014/09/testimg2.jpg&quot; alt=&quot;Small Test Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Labore et dolore.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;listtypes&quot;&gt;List Types&lt;/h2&gt;
-
-&lt;h3 id=&quot;definitionlist&quot;&gt;Definition List&lt;/h3&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;Definition List Title&lt;/dt&gt;
-&lt;dd&gt;This is a definition list division.&lt;/dd&gt;
-&lt;dt&gt;Definition&lt;/dt&gt;
-&lt;dd&gt;An exact statement or description of the nature, scope, or meaning of something: &lt;em&gt;our definition of what constitutes poetry.&lt;/em&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h3 id=&quot;orderedlist&quot;&gt;Ordered List&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;List Item 1  &lt;/li&gt;
-&lt;li&gt;List Item 2 &lt;br /&gt;
-&lt;ol&gt;&lt;li&gt;Nested list item A&lt;/li&gt;
-&lt;li&gt;Nested list item B&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;unorderedlist&quot;&gt;Unordered List&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2
-&lt;ul&gt;&lt;li&gt;Nested list item A&lt;/li&gt;
-&lt;li&gt;Nested list item B&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;Table Header 1&lt;/th&gt;
-&lt;th&gt;Table Header 2&lt;/th&gt;
-&lt;th&gt;Table Header 3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&quot;even&quot;&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;preformattedtext&quot;&gt;Preformatted Text&lt;/h2&gt;
-
-&lt;p&gt;Typographically, preformatted text is not the same thing as code. Sometimes, a faithful execution of the text requires preformatted text that may not have anything to do with code. Most browsers use Courier and that’s a good default — with one slight adjustment, Courier 10 Pitch over regular Courier for Linux users.&lt;/p&gt;
-
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Code can be presented inline, like &lt;code&gt;&amp;lt;?php bloginfo('stylesheet_url'); ?&amp;gt;&lt;/code&gt;, or within a &lt;code&gt;&amp;lt;pre&amp;gt;&lt;/code&gt; block. Because we have more specific typographic needs for code, we’ll specify Consolas and Monaco ahead of the browser-defined monospace font.&lt;/p&gt;
-
-&lt;p&gt;Code blocks can also be inserted with the highlight tag as below:&lt;/p&gt;
-
-&lt;pre&gt;
-    
-    {% highlight language-x %}
-    # some code
-    {% endhighlight %}
-    
+&lt;pre  style=&quot;
+    white-space: pre-wrap;
+    background-color: rgb(226, 223, 223);
+    color: rgb(7, 6, 6);
+    font-size: 1.3em;
+    font-family: Roboto;
+    font-weight: 400;
+    width: 100%;
+    max-width: 800px;
+    line-height: 1.8em;
+    border: lightgrey 1px solid;
+    margin: 0 auto;
+    padding: 2em;
+  &quot;&gt;
+Soft sunlight reflects her face fixed with pleasure, 
+arranged by Dad, snapped with minimum fuss.
+Frail yellowed paper holds her, captured,
+enraptured, in a permanent maternal pose.
+I place a kiss on her head and return her to the box
+but hold the image a while, a reminder of a time now lost.
+A memory, an image-blanket for my sleep, 
+held close at heart, marked precious; one to keep.
 &lt;/pre&gt;
 
-&lt;p&gt;More information about code highlighting in jekyll can be found  &lt;a href=&quot;https://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;in Jekyll documentation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;These area a couple of examples showing the resulting highlighted code:&lt;/p&gt;
-
-&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;c&quot;&gt;/* css code sample */&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;p&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;err&quot;&gt;&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;err&quot;&gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;err&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// javascript code sample&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ajax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'POST'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'backend.php'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;q=&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;myform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;serialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(),&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;success&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// on success use return data here&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;xhr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;exception&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// if ajax fails display error alert&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;ajax error response type &quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;Now you can also use &lt;a href=&quot;https://highlightjs.org/&quot;&gt;highlight.js&lt;/a&gt;.
-For more on how to use it and on the available styles check their
-&lt;a href=&quot;https://highlightjs.org/static/demo/&quot;&gt;demo&lt;/a&gt; and
-&lt;a href=&quot;http://highlightjs.readthedocs.org/en/latest/&quot;&gt;documentation&lt;/a&gt; pages.&lt;/p&gt;
-
-&lt;div class=&quot;system&quot;&gt;
-&lt;pre&gt;&lt;code class=&quot;swift&quot;&gt;// Swift code sample
-import Foundation
-
-@objc class Person: Entity {
-  var name: String!
-  var age:  Int!
-
-  init(name: String, age: Int) {
-    /* /* ... */ */
-  }
-
-  // Return a descriptive string for this person
-  func description(offset: Int = 0) -&gt; String {
-    return &quot;\(name) is \(age + offset) years old&quot;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
-
-&lt;p&gt;Let’s keep it simple. Italics are good to help set it off from the body text. Be sure to style the citation.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Good afternoon, gentlemen. I am a HAL 9000 computer. I became operational at the H.A.L. plant in Urbana, Illinois on the 12th of January 1992. My instructor was Mr. Langley, and he taught me to sing a song. If you’d like to hear it I can sing it for you. &lt;cite&gt;— &lt;a href=&quot;http://en.wikipedia.org/wiki/HAL_9000&quot;&gt;HAL 9000&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;And here’s a bit of trailing text.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;textlevelsemantics&quot;&gt;Text-level semantics&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&quot;#&quot;&gt;a element&lt;/a&gt; example &lt;br /&gt;
-The &lt;abbr&gt;abbr element&lt;/abbr&gt; and &lt;abbr title=&quot;Title text&quot;&gt;abbr element with title&lt;/abbr&gt; examples &lt;br /&gt;
-The &lt;b&gt;b element&lt;/b&gt; example &lt;br /&gt;
-The &lt;cite&gt;cite element&lt;/cite&gt; example &lt;br /&gt;
-The &lt;code&gt;code element&lt;/code&gt; example &lt;br /&gt;
-The &lt;del&gt;del element&lt;/del&gt; example &lt;br /&gt;
-The &lt;dfn&gt;dfn element&lt;/dfn&gt; and &lt;dfn title=&quot;Title text&quot;&gt;dfn element with title&lt;/dfn&gt; examples &lt;br /&gt;
-The &lt;em&gt;em element&lt;/em&gt; example &lt;br /&gt;
-The &lt;i&gt;i element&lt;/i&gt; example &lt;br /&gt;
-The &lt;ins&gt;ins element&lt;/ins&gt; example &lt;br /&gt;
-The &lt;kbd&gt;kbd element&lt;/kbd&gt; example &lt;br /&gt;
-The &lt;mark&gt;mark element&lt;/mark&gt; example &lt;br /&gt;
-The &lt;q&gt;q element &lt;q&gt;inside&lt;/q&gt; a q element&lt;/q&gt; example &lt;br /&gt;
-The &lt;s&gt;s element&lt;/s&gt; example &lt;br /&gt;
-The &lt;samp&gt;samp element&lt;/samp&gt; example &lt;br /&gt;
-The &lt;small&gt;small element&lt;/small&gt; example &lt;br /&gt;
-The &lt;span&gt;span element&lt;/span&gt; example &lt;br /&gt;
-The &lt;strong&gt;strong element&lt;/strong&gt; example &lt;br /&gt;
-The &lt;sub&gt;sub element&lt;/sub&gt; example &lt;br /&gt;
-The &lt;sup&gt;sup element&lt;/sup&gt; example &lt;br /&gt;
-The &lt;var&gt;var element&lt;/var&gt; example &lt;br /&gt;
-The &lt;u&gt;u element&lt;/u&gt; example&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;forms&quot;&gt;Forms&lt;/h2&gt;
-
-&lt;form&gt;
-&lt;fieldset&gt;
-&lt;legend&gt;Inputs as descendents of labels (form legend)&lt;/legend&gt;
-&lt;label&gt;
-&lt;b&gt;Text input&lt;/b&gt;
-&lt;input type=&quot;text&quot; value=&quot;default value&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Email input&lt;/b&gt;
-&lt;input type=&quot;email&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Search input&lt;/b&gt;
-&lt;input type=&quot;search&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Tel input&lt;/b&gt;
-&lt;input type=&quot;tel&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;URL input&lt;/b&gt;
-&lt;input type=&quot;url&quot; placeholder=&quot;http://&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Password input&lt;/b&gt;
-&lt;input type=&quot;password&quot; value=&quot;password&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;File input&lt;/b&gt;
-&lt;input type=&quot;file&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Radio input&lt;/b&gt;
-&lt;input type=&quot;radio&quot; name=&quot;rad&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Checkbox input&lt;/b&gt;
-&lt;input type=&quot;checkbox&quot;&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;input type=&quot;radio&quot; name=&quot;rad&quot;&gt; Radio input
-&lt;/label&gt;
-&lt;label&gt;
-&lt;input type=&quot;checkbox&quot;&gt; Checkbox input
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Select field&lt;/b&gt;
-&lt;select&gt;
-&lt;option&gt;Option 01&lt;/option&gt;
-&lt;option&gt;Option 02&lt;/option&gt;
-&lt;/select&gt;
-&lt;/label&gt;
-&lt;label&gt;
-&lt;b&gt;Textarea&lt;/b&gt;
-&lt;textarea cols=&quot;30&quot; rows=&quot;5&quot; &gt;Textarea text&lt;/textarea&gt;
-&lt;/label&gt;
-&lt;/fieldset&gt;
-
-&lt;fieldset&gt;
-&lt;legend&gt;Clickable inputs and buttons&lt;/legend&gt;
-&lt;input type=&quot;image&quot; src=&quot;http://placekitten.com/90/24&quot; alt=&quot;Image (input)&quot;&gt;
-&lt;input type=&quot;reset&quot; value=&quot;Reset (input)&quot;&gt;
-&lt;input type=&quot;button&quot; value=&quot;Button (input)&quot;&gt;
-&lt;input type=&quot;submit&quot; value=&quot;Submit (input)&quot;&gt;
-&lt;button type=&quot;reset&quot;&gt;Reset (button)&lt;/button&gt;
-&lt;button type=&quot;button&quot;&gt;Button (button)&lt;/button&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit (button)&lt;/button&gt;
-&lt;/fieldset&gt;
-
-&lt;fieldset id=&quot;boxsize&quot;&gt;
-&lt;legend&gt;box-sizing tests&lt;/legend&gt;
-&lt;div&gt;&lt;input type=&quot;text&quot; value=&quot;text&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;email&quot; value=&quot;email&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;search&quot; value=&quot;search&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;url&quot; value=&quot;http://example.com&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;password&quot; value=&quot;password&quot;&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;input type=&quot;color&quot; value=&quot;#000000&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;number&quot; value=&quot;5&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;range&quot; value=&quot;10&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;date&quot; value=&quot;1970-01-01&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;month&quot; value=&quot;1970-01&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;week&quot; value=&quot;1970-W01&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;time&quot; value=&quot;18:23&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;datetime&quot; value=&quot;1970-01-01T00:00:00Z&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;datetime-local&quot; value=&quot;1970-01-01T00:00&quot;&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;input type=&quot;radio&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;checkbox&quot;&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;select&gt;&lt;option&gt;Option 01&lt;/option&gt;&lt;option&gt;Option 02&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
-&lt;div&gt;&lt;textarea cols=&quot;30&quot; rows=&quot;5&quot; &gt;Textarea text&lt;/textarea&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;input type=&quot;image&quot; src=&quot;http://placekitten.com/90/24&quot; alt=&quot;Image (input)&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;reset&quot; value=&quot;Reset (input)&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;button&quot; value=&quot;Button (input)&quot;&gt;&lt;/div&gt;
-&lt;div&gt;&lt;input type=&quot;submit&quot; value=&quot;Submit (input)&quot;&gt;&lt;/div&gt;
-
-&lt;div&gt;&lt;button type=&quot;reset&quot;&gt;Reset (button)&lt;/button&gt;&lt;/div&gt;
-&lt;div&gt;&lt;button type=&quot;button&quot;&gt;Button (button)&lt;/button&gt;&lt;/div&gt;
-&lt;div&gt;&lt;button type=&quot;submit&quot;&gt;Submit (button)&lt;/button&gt;&lt;/div&gt;
-&lt;/fieldset&gt;
-&lt;/form&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;embeds&quot;&gt;Embeds&lt;/h2&gt;
-
-&lt;p&gt;Sometimes all you want to do is embed a little love from another location and set your post alive.&lt;/p&gt;
-
-&lt;h3 id=&quot;video&quot;&gt;Video&lt;/h3&gt;
-
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-&lt;iframe src=&quot;//player.vimeo.com/video/103224792?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;600&quot; height=&quot;338&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;h3 id=&quot;slides&quot;&gt;Slides&lt;/h3&gt;
-
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;34d2856027ce01316b5d621ab8e7d421&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
-
-&lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169381837&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.&lt;/p&gt;
-
-&lt;p&gt;&lt;div data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;bcqhe&quot; data-default-tab=&quot;js&quot; data-user=&quot;rglazebrook&quot; class='codepen'&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;var c = new Sketch.create({autoclear: false}),
-    bigCircle = 50,
-    littleCircle = 5,
-    // The velocity value determines how much to move the spinner head (in radians).
-    velocity = 0.105,
-    hue = 0,
-    // The alpha value below determines the length of the spinner&amp;#39;s tail.
-    bg = &amp;#39;rgba(40,40,40,.075)&amp;#39;;
-    Spinner = function() {};
-
-Spinner.prototype.setup = function() {
-  this.x = c.width / 2;
-  this.y = c.height / 2 - bigCircle;
-  this.rotation = 0;
-}
-Spinner.prototype.update = function() {
-  this.rotation += velocity;
-  this.rotation = this.rotation % TWO_PI;
-  this.x = c.width /2 + cos(this.rotation) * bigCircle;
-  this.y = c.height / 2 + sin(this.rotation) * bigCircle;
-}
-Spinner.prototype.draw = function() {
-  c.fillStyle = &amp;#39;hsl(&amp;#39;+hue+&amp;#39;,50%,50%)&amp;#39;;
-  c.beginPath();
-  c.arc(this.x, this.y, littleCircle, 0, TWO_PI);
-  c.fill();
-  c.closePath();
-}
-c.setup = function() {
-  spinner = new Spinner();
-  spinner.setup();
-}
-c.update = function() {
-  spinner.update();
-  hue = ++hue % 360;
-}
-c.draw = function() {
-  spinner.draw();
-  c.fillStyle = bg;
-  c.fillRect(0,0,c.width,c.height);
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;See the Pen &lt;a href='http://codepen.io/rglazebrook/pen/bcqhe/'&gt;Simple Rotating Spinner&lt;/a&gt; by Rob Glazebrook (&lt;a href='http://codepen.io/rglazebrook'&gt;@rglazebrook&lt;/a&gt;) on &lt;a href='http://codepen.io'&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;script async src=&quot;//codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Isn't it beautiful?&lt;/p&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="markdown" /><category term="post_formatting" /><summary type="html">Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.Paragraph tags removed - complare the effect with the original post</summary></entry></feed>
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;</content><author><name>Dr Mark O'Connor</name></author><category term="poem" /><category term="poetry" /><summary type="html">A poem from mark: A decades old photograph - What is it we remember when all details are forgot?</summary></entry></feed>

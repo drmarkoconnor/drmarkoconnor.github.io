@@ -20,6 +20,7 @@ production stylesheet in assets/built/screen.css
 9.  Error Template
 10. Subscribe Overlay
 11. Site Footer
+12. my stuff
 
 */
 
@@ -192,7 +193,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
   height: 40px;
   font-size: 1.2rem;
 }
@@ -201,7 +202,7 @@ body {
   display: flex;
   align-items: center;
   overflow-x: auto;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
   -webkit-overflow-scrolling: touch;
   margin-right: 10px;
   padding-bottom: 80px;
@@ -259,7 +260,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
   display: block;
   margin: 0;
   padding: 10px 12px;
-  color: #fff;
+  color: black;
   opacity: 0.8;
 }
 
@@ -819,7 +820,7 @@ Usage (In Ghost editor):
   border-radius: 3px;
 }
 
-.post-full-content pre {
+/* .post-full-content pre {
   overflow-x: auto;
   margin: 1.5em 0 3em;
   padding: 20px;
@@ -830,13 +831,13 @@ Usage (In Ghost editor):
   line-height: 1.5em;
   background: color(var(--darkgrey) l(-3%));
   border-radius: 5px;
-}
+} */
 
 .post-full-content pre code {
   padding: 0;
   font-size: inherit;
   line-height: inherit;
-  background: transparent;
+  background: white;
 }
 
 .post-full-content pre code * {
@@ -1948,3 +1949,5 @@ Usage (In Ghost editor):
     margin-left: 0;
   }
 }
+/* 12. My stuff
+/* ---------------------------------------------------------- */

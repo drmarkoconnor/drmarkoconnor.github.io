@@ -86,7 +86,7 @@ body {
     "Book Antiqua", Georgia, serif; */
   font-family: Roboto;
 
-  background-color: #fffff8;
+  /* background-color: #fffff8; */
   color: #111;
   max-width: 1400px;
   counter-reset: sidenote-counter;
@@ -146,7 +146,7 @@ p.subtitle {
 }
 
 article {
-  padding: 4rem 0rem;
+  padding: 2rem 0rem;
 }
 
 section {
@@ -411,16 +411,17 @@ pre.fullwidth > code {
 }
 pre {
   white-space: pre-wrap;
-  background-color: white;
-  color: grey;
+  background-color: rgb(226, 223, 223);
+  color: rgb(7, 6, 6);
   font-size: 1.3em;
   font-family: Roboto;
   font-weight: 400;
-  width: 80%;
+  width: 100%;
   max-width: 800px;
+  line-height: 1.8em;
   border: lightgrey 1px solid;
-  /* margin: 0 1em 0 0; */
-  padding: 4em;
+  margin: 0 auto;
+  padding: 2em;
 }
 
 newthought {
@@ -456,11 +457,11 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 @media (max-width: 760px) {
-  body {
+  /* body {
     width: 84%;
     padding-left: 8%;
     padding-right: 8%;
-  }
+  } */
 
   hr,
   section > p,
