@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://drmarkoconnor.github.io/tag/tech/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://drmarkoconnor.github.io/tag/writing/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://drmarkoconnor.github.io/" rel="alternate" type="text/html" />
   <updated>2021-01-31T00:29:11+00:00</updated>
-  <id>https://drmarkoconnor.github.io/tag/tech/feed.xml</id>
+  <id>https://drmarkoconnor.github.io/tag/writing/feed.xml</id>
 
   
   
@@ -30,6 +30,55 @@
   
   
 
+  
+    <entry>
+      <title type="html">The shortest writing tutorial in the world</title>
+      <link href="https://drmarkoconnor.github.io/2021/01/12/short-tutorial.html" rel="alternate" type="text/html" title="The shortest writing tutorial in the world" />
+      <published>2021-01-12T23:48:21+00:00</published>
+      <updated>2021-01-12T23:48:21+00:00</updated>
+      <id>https://drmarkoconnor.github.io/2021/01/12/short-tutorial</id>
+      <content type="html" xml:base="https://drmarkoconnor.github.io/2021/01/12/short-tutorial.html">&lt;h1&gt;Tutorial 1.&lt;/h1&gt;
+
+&lt;h2&gt;Beginnings;&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sharing is good&lt;/li&gt;
+  &lt;li&gt;All first drafts are shit&lt;/li&gt;
+  &lt;li&gt;
+    If you are not writing then read - doing one makes you better at the other
+  &lt;/li&gt;
+  &lt;li&gt;It’s all in the editing so just get it written then get it right&lt;/li&gt;
+  &lt;li&gt;It’s not about being good it’s knowing how to improve&lt;/li&gt;
+  &lt;li&gt;Write every day, something, anything … that’s what writers do&lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Dr Mark O'Connor</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="writing" />
+      
+        <category term="tips" />
+      
+
+      
+        <summary type="html">Tutorial 1.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Tech tips for writers</title>
